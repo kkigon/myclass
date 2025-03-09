@@ -113,65 +113,65 @@
             "time": "3"
         },
         {
-            "id": "M",
-            "className": "물리학세미나Ⅰ",
-            "place": "물교",
-            "day": "0",
-            "time": "4"
-        },
-        {
-            "id": "M",
-            "className": "중국어",
-            "place": "외국어3",
-            "day": "0",
-            "time": "4"
-        },
-        {
-            "id": "M",
-            "className": "심화바이오화학",
-            "place": "화실1,생교",
-            "day": "0",
-            "time": "4"
-        },
-        {
-            "id": "M",
-            "className": "물리학세미나Ⅰ",
-            "place": "물교",
-            "day": "0",
-            "time": "5"
-        },
-        {
-            "id": "M",
-            "className": "중국어",
-            "place": "외국어3",
-            "day": "0",
-            "time": "5"
-        },
-        {
-            "id": "M",
-            "className": "심화바이오화학",
-            "place": "화실1,생교",
-            "day": "0",
-            "time": "5"
-        },
-        {
             "id": "B",
             "className": "수학세미나Ⅰ",
             "place": "수교6",
             "day": "0",
-            "time": "6"
+            "time": "4"
         },
         {
             "id": "B",
             "className": "창의적 글쓰기",
             "place": "인문2",
             "day": "0",
-            "time": "6"
+            "time": "4"
         },
         {
             "id": "XB",
             "className": "고급영어독해",
             "place": "외국어2",
+            "day": "0",
+            "time": "4"
+        },
+        {
+            "id": "M",
+            "className": "물리학세미나Ⅰ",
+            "place": "물교",
+            "day": "0",
+            "time": "5"
+        },
+        {
+            "id": "M",
+            "className": "중국어",
+            "place": "외국어2",
+            "day": "0",
+            "time": "5"
+        },
+        {
+            "id": "M",
+            "className": "심화바이오화학",
+            "place": "화실1,생교",
+            "day": "0",
+            "time": "5"
+        },
+        {
+            "id": "M",
+            "className": "물리학세미나Ⅰ",
+            "place": "물교",
+            "day": "0",
+            "time": "6"
+        },
+        {
+            "id": "M",
+            "className": "중국어",
+            "place": "외국어2",
+            "day": "0",
+            "time": "6"
+        },
+        {
+            "id": "M",
+            "className": "심화바이오화학",
+            "place": "화실1,생교",
             "day": "0",
             "time": "6"
         },
@@ -563,7 +563,7 @@
         {
             "id": "D",
             "className": "화학세미나Ⅰ",
-            "place": "화교",
+            "place": "수교7",
             "day": "3",
             "time": "2"
         },
@@ -591,7 +591,7 @@
         {
             "id": "D",
             "className": "화학세미나Ⅰ",
-            "place": "화교",
+            "place": "수교7",
             "day": "3",
             "time": "3"
         },
@@ -801,7 +801,7 @@
         {
             "id": "D",
             "className": "화학세미나Ⅰ",
-            "place": "화교",
+            "place": "수교7",
             "day": "4",
             "time": "4"
         },

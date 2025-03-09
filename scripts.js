@@ -111,14 +111,15 @@ function draw() {
     document.getElementById('stable').innerHTML = ''
     for (let i = 1; i <= 9; i++) {
         document.getElementById('table').innerHTML += `<tr>
-        <td>${i}교시</td>
-        <td onclick="modalHandler('${classList[0][i - 1]}');" class="${['공강', 'SA', '창체', ' '].includes(classList[0][i - 1]) ? '' : 'openModal'} ${colorSet[classList[0][i - 1]]} lighten-3">${classList[0][i - 1]}</td>
-        <td onclick="modalHandler('${classList[1][i - 1]}');" class="${['공강', 'SA', '창체', ' '].includes(classList[1][i - 1]) ? '' : 'openModal'} ${colorSet[classList[1][i - 1]]} lighten-3">${classList[1][i - 1]}</td>
-        <td onclick="modalHandler('${classList[2][i - 1]}');" class="${['공강', 'SA', '창체', ' '].includes(classList[2][i - 1]) ? '' : 'openModal'} ${colorSet[classList[2][i - 1]]} lighten-3">${classList[2][i - 1]}</td>
-        <td onclick="modalHandler('${classList[3][i - 1]}');" class="${['공강', 'SA', '창체', ' '].includes(classList[3][i - 1]) ? '' : 'openModal'} ${colorSet[classList[3][i - 1]]} lighten-3">${classList[3][i - 1]}</td>
-        <td onclick="modalHandler('${classList[4][i - 1]}');" class="${['공강', 'SA', '창체', ' '].includes(classList[4][i - 1]) ? '' : 'openModal'} ${colorSet[classList[4][i - 1]]} lighten-3">${classList[4][i - 1]}</td>
-    </tr>`
+            <td>${i}교시</td>
+            <td onclick="modalHandler('${classList[0][i - 1]}', 0, ${i - 1});" class="${['공강', 'SA', '창체', ' '].includes(classList[0][i - 1]) ? '' : 'openModal'} ${colorSet[classList[0][i - 1]]} lighten-3">${classList[0][i - 1]}</td>
+            <td onclick="modalHandler('${classList[1][i - 1]}', 1, ${i - 1});" class="${['공강', 'SA', '창체', ' '].includes(classList[1][i - 1]) ? '' : 'openModal'} ${colorSet[classList[1][i - 1]]} lighten-3">${classList[1][i - 1]}</td>
+            <td onclick="modalHandler('${classList[2][i - 1]}', 2, ${i - 1});" class="${['공강', 'SA', '창체', ' '].includes(classList[2][i - 1]) ? '' : 'openModal'} ${colorSet[classList[2][i - 1]]} lighten-3">${classList[2][i - 1]}</td>
+            <td onclick="modalHandler('${classList[3][i - 1]}', 3, ${i - 1});" class="${['공강', 'SA', '창체', ' '].includes(classList[3][i - 1]) ? '' : 'openModal'} ${colorSet[classList[3][i - 1]]} lighten-3">${classList[3][i - 1]}</td>
+            <td onclick="modalHandler('${classList[4][i - 1]}', 4, ${i - 1});" class="${['공강', 'SA', '창체', ' '].includes(classList[4][i - 1]) ? '' : 'openModal'} ${colorSet[classList[4][i - 1]]} lighten-3">${classList[4][i - 1]}</td>
+        </tr>`;
     }
+    
     let mag = 0
     for (let i in gg) {
         if (i !== document.getElementById("stuid").value && (!search || _.find(data.user, {id: i}).name.includes(search))) mag = Math.max(mag, gg[i].length)
@@ -159,35 +160,49 @@ function draw() {
 }
 
 
-function modalHandler(subjectName, soon = false) {
-
+function modalHandler(subjectName, dayOrSoon, period, soon) {
+    // 만약 두번째 인자가 boolean이면, 이는 soon 플래그임 (즉, day, period 정보는 없는 경우)
+    if (typeof dayOrSoon === "boolean") {
+        soon = dayOrSoon;
+        dayOrSoon = null;
+        period = null;
+    }
     if (['공강', 'SA', '창체', ' ', '동아리'].includes(subjectName)) return false;
     
-
     // 현재 사용자가 듣고 있는 수업 중 subjectName과 동일한 수업 찾기
     const userClass = user.data.find(cls => cls.className === subjectName);
 
     if (userClass) {
-        // 수업 정보를 찾기
-        const classInfo = data.class.find(cl => cl.className === subjectName && cl.id === userClass.id);
+        let classInfo;
+        if (dayOrSoon !== null && period !== null) {
+            // 요일/교시 정보를 반영하여 해당 시간대의 수업 정보를 조회
+            classInfo = data.class.find(cl =>
+                cl.className === subjectName &&
+                Number(cl.day) === dayOrSoon &&
+                Number(cl.time) === period &&
+                cl.id === userClass.id
+            );
+        } else {
+            // 기존 로직: 요일/시간 정보 없이 수업 정보 조회
+            classInfo = data.class.find(cl =>
+                cl.className === subjectName &&
+                cl.id === userClass.id
+            );
+        }
 
         if (classInfo) {
-            document.getElementById('modalId').innerText = `${classInfo.className} ${classInfo.id}`; // ID를 표시
-            document.getElementById('modalContent').innerText = `장소: ${classInfo.place}`; // 장소를 표시
+            document.getElementById('modalId').innerText = `${classInfo.className} ${classInfo.id}`;
+            document.getElementById('modalContent').innerText = `장소: ${classInfo.place}`;
             
-            // 수업을 같이 듣는 학생들의 이름을 찾기
+            // 같은 수업을 듣는 학생 목록 가져오기
             const classmates = data.user.filter(otherUser => 
                 otherUser.data.some(cls => cls.className === subjectName && cls.id === userClass.id)
             );
-
-            // 학생들의 이름을 리스트로 만듭니다.
             const classmatesNames = classmates
-                .filter(otherUser => otherUser.id !== user.id) // 자신을 제외
+                .filter(otherUser => otherUser.id !== user.id)
                 .map(otherUser => otherUser.name)
                 .join(', ');
-            
-            // 학생들의 이름을 모달에 추가합니다.
-            document.getElementById('modalClassmates').innerText = `${classmatesNames}`;
+            document.getElementById('modalClassmates').innerText = classmatesNames;
         } else {
             document.getElementById('modalId').innerText = '정보 없음';
             document.getElementById('modalContent').innerText = '해당 과목의 정보가 없습니다.';
@@ -200,9 +215,9 @@ function modalHandler(subjectName, soon = false) {
     }
 
     document.getElementById('modal').style.display = 'block';
-
     return true;
 }
+
 
 
 function closeModal() {
