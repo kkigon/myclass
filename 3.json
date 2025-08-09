@@ -643,6 +643,13 @@
             "place": "AI융",
             "day": "4",
             "time": "3"
+        },
+        {
+            "id": "B",
+            "className": "분자생물학",
+            "place": "생교",
+            "day": "4",
+            "time": "3"
         }
     ],
     "user": [
