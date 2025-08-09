@@ -1,816 +1,648 @@
 ﻿{
     "class": [
         {
-            "id": "L",
-            "className": "물리학세미나Ⅰ",
-            "place": "물교",
+            "id": "M",
+            "className": "사회문화",
+            "place": "인교3",
             "day": "0",
             "time": "0"
         },
         {
-            "id": "L",
-            "className": "중국어",
-            "place": "외국어3",
+            "id": "M2",
+            "className": "예술사",
+            "place": "음악",
             "day": "0",
             "time": "0"
         },
         {
-            "id": "L",
-            "className": "일본어",
-            "place": "인문2",
-            "day": "0",
-            "time": "0"
-        },
-        {
-            "id": "L",
-            "className": "융합수학Ⅱ",
-            "place": "수교2",
-            "day": "0",
-            "time": "0"
-        },
-        {
-            "id": "L",
-            "className": "물리학세미나Ⅰ",
-            "place": "물교",
+            "id": "M",
+            "className": "사회문화",
+            "place": "인교3",
             "day": "0",
             "time": "1"
         },
         {
-            "id": "L",
-            "className": "중국어",
-            "place": "외국어3",
+            "id": "M2",
+            "className": "예술사",
+            "place": "음악",
             "day": "0",
             "time": "1"
         },
         {
-            "id": "L",
-            "className": "일본어",
-            "place": "인문2",
-            "day": "0",
-            "time": "1"
-        },
-        {
-            "id": "L",
-            "className": "융합수학Ⅱ",
-            "place": "수교2",
-            "day": "0",
-            "time": "1"
-        },
-        {
-            "id": "N",
-            "className": "생물학세미나Ⅰ",
-            "place": "생교",
+            "id": "A",
+            "className": "수학세미나Ⅱ",
+            "place": "수교7",
             "day": "0",
             "time": "2"
         },
         {
-            "id": "N",
-            "className": "중국어",
-            "place": "외국어3",
+            "id": "A",
+            "className": "미분방정식",
+            "place": "수교6",
             "day": "0",
             "time": "2"
         },
         {
-            "id": "N",
-            "className": "일본어",
-            "place": "인문2",
+            "id": "A",
+            "className": "정보과학융합프로젝트Ⅱ",
+            "place": "AI융",
             "day": "0",
             "time": "2"
         },
         {
-            "id": "N",
-            "className": "심화물상과과학",
-            "place": "물실1",
+            "id": "A",
+            "className": "Critical Reading",
+            "place": "외교3",
             "day": "0",
             "time": "2"
         },
         {
-            "id": "N",
-            "className": "생물학세미나Ⅰ",
+            "id": "D",
+            "className": "수학세미나Ⅱ",
+            "place": "수교7",
+            "day": "0",
+            "time": "3"
+        },
+        {
+            "id": "D",
+            "className": "생물학세미나Ⅱ",
             "place": "생교",
             "day": "0",
             "time": "3"
         },
         {
-            "id": "N",
-            "className": "중국어",
-            "place": "외국어3",
+            "id": "D",
+            "className": "정보과학융합프로젝트Ⅱ",
+            "place": "AI융",
             "day": "0",
             "time": "3"
         },
         {
-            "id": "N",
-            "className": "일본어",
-            "place": "인문2",
+            "id": "D",
+            "className": "사회문화",
+            "place": "인교3",
             "day": "0",
             "time": "3"
         },
         {
-            "id": "N",
-            "className": "심화물상과과학",
-            "place": "물실1",
+            "id": "Y2",
+            "className": "미래와 융합",
+            "place": "인교2, 외교3",
             "day": "0",
-            "time": "3"
-        },
-        {
-            "id": "B",
-            "className": "수학세미나Ⅰ",
-            "place": "수교6",
-            "day": "0",
-            "time": "4"
-        },
-        {
-            "id": "B",
-            "className": "창의적 글쓰기",
-            "place": "인문2",
-            "day": "0",
-            "time": "4"
-        },
-        {
-            "id": "XB",
-            "className": "고급영어독해",
-            "place": "외국어2",
-            "day": "0",
-            "time": "4"
-        },
-        {
-            "id": "M",
-            "className": "물리학세미나Ⅰ",
-            "place": "물교",
-            "day": "0",
-            "time": "5"
-        },
-        {
-            "id": "M",
-            "className": "중국어",
-            "place": "외국어2",
-            "day": "0",
-            "time": "5"
-        },
-        {
-            "id": "M",
-            "className": "심화바이오화학",
-            "place": "화실1,생교",
-            "day": "0",
-            "time": "5"
-        },
-        {
-            "id": "M",
-            "className": "물리학세미나Ⅰ",
-            "place": "물교",
-            "day": "0",
-            "time": "6"
-        },
-        {
-            "id": "M",
-            "className": "중국어",
-            "place": "외국어2",
-            "day": "0",
-            "time": "6"
-        },
-        {
-            "id": "M",
-            "className": "심화바이오화학",
-            "place": "화실1,생교",
-            "day": "0",
-            "time": "6"
-        },
-        {
-            "id": "C",
-            "className": "수학세미나Ⅰ",
-            "place": "수교6",
-            "day": "1",
-            "time": "0"
-        },
-        {
-            "id": "C",
-            "className": "창의적 글쓰기",
-            "place": "인문2",
-            "day": "1",
-            "time": "0"
-        },
-        {
-            "id": "C",
-            "className": "화학세미나Ⅰ",
-            "place": "화교",
-            "day": "1",
-            "time": "0"
-        },
-        {
-            "id": "C2",
-            "className": "음악과테크놀로지",
-            "place": "음악실",
-            "day": "1",
-            "time": "0"
-        },
-        {
-            "id": "C",
-            "className": "수학세미나Ⅰ",
-            "place": "수교6",
-            "day": "1",
-            "time": "1"
-        },
-        {
-            "id": "C",
-            "className": "창의적 글쓰기",
-            "place": "인문2",
-            "day": "1",
-            "time": "1"
-        },
-        {
-            "id": "C",
-            "className": "화학세미나Ⅰ",
-            "place": "화교",
-            "day": "1",
-            "time": "1"
-        },
-        {
-            "id": "C2",
-            "className": "음악과테크놀로지",
-            "place": "음악실",
-            "day": "1",
-            "time": "1"
-        },
-        {
-            "id": "A",
-            "className": "수학세미나Ⅰ",
-            "place": "수교6",
-            "day": "1",
-            "time": "2"
-        },
-        {
-            "id": "A",
-            "className": "창의적 글쓰기",
-            "place": "인문2",
-            "day": "1",
-            "time": "2"
-        },
-        {
-            "id": "A",
-            "className": "객체지향프로그래밍",
-            "place": "AI융합",
-            "day": "1",
-            "time": "2"
-        },
-        {
-            "id": "A",
-            "className": "세포생물학",
-            "place": "생교",
-            "day": "1",
-            "time": "2"
-        },
-        {
-            "id": "A2",
-            "className": "음악과테크놀로지",
-            "place": "음악실",
-            "day": "1",
-            "time": "2"
-        },
-        {
-            "id": "A",
-            "className": "수학세미나Ⅰ",
-            "place": "수교6",
-            "day": "1",
-            "time": "3"
-        },
-        {
-            "id": "A",
-            "className": "창의적 글쓰기",
-            "place": "인문2",
-            "day": "1",
-            "time": "3"
-        },
-        {
-            "id": "A",
-            "className": "객체지향프로그래밍",
-            "place": "AI융합",
-            "day": "1",
-            "time": "3"
-        },
-        {
-            "id": "A",
-            "className": "세포생물학",
-            "place": "생교",
-            "day": "1",
-            "time": "3"
-        },
-        {
-            "id": "A2",
-            "className": "음악과테크놀로지",
-            "place": "음악실",
-            "day": "1",
-            "time": "3"
-        },
-        {
-            "id": "Z",
-            "className": "선형대수학",
-            "place": "수교6",
-            "day": "1",
-            "time": "4"
-        },
-        {
-            "id": "Z",
-            "className": "유기화학의이해",
-            "place": "화교",
-            "day": "1",
-            "time": "4"
-        },
-        {
-            "id": "Z",
-            "className": "융합수학Ⅱ",
-            "place": "수교2",
-            "day": "1",
             "time": "4"
         },
         {
             "id": "Y",
-            "className": "선형대수학",
-            "place": "수교6",
-            "day": "1",
+            "className": "첨단화학",
+            "place": "화실1",
+            "day": "0",
+            "time": "4"
+        },
+        {
+            "id": "Y2",
+            "className": "예술사",
+            "place": "음악",
+            "day": "0",
+            "time": "4"
+        },
+        {
+            "id": "Y2",
+            "className": "미래와 융합",
+            "place": "인교2, 외교3",
+            "day": "0",
             "time": "5"
         },
         {
             "id": "Y",
-            "className": "정보과학프로젝트",
-            "place": "AI융합",
-            "day": "1",
+            "className": "첨단화학",
+            "place": "화실1",
+            "day": "0",
             "time": "5"
         },
         {
             "id": "Y2",
-            "className": "미술과테크놀로지",
-            "place": "미술실",
+            "className": "예술사",
+            "place": "디자인",
+            "day": "0",
+            "time": "5"
+        },
+        {
+            "id": "CF",
+            "className": "물리학세미나Ⅱ",
+            "place": "물교",
+            "day": "0",
+            "time": "6"
+        },
+        {
+            "id": "L",
+            "className": "화학세미나Ⅱ",
+            "place": "화교",
+            "day": "1",
+            "time": "0"
+        },
+        {
+            "id": "L",
+            "className": "물리학세미나Ⅱ",
+            "place": "물교",
+            "day": "1",
+            "time": "0"
+        },
+        {
+            "id": "L",
+            "className": "생명정보의 융합적 활용",
+            "place": "생교",
+            "day": "1",
+            "time": "0"
+        },
+        {
+            "id": "L",
+            "className": "화학세미나Ⅱ",
+            "place": "화교",
+            "day": "1",
+            "time": "1"
+        },
+        {
+            "id": "L",
+            "className": "물리학세미나Ⅱ",
+            "place": "물교",
+            "day": "1",
+            "time": "1"
+        },
+        {
+            "id": "L",
+            "className": "생명정보의 융합적 활용",
+            "place": "생교",
+            "day": "1",
+            "time": "1"
+        },
+        {
+            "id": "B",
+            "className": "수학세미나Ⅱ",
+            "place": "수교7",
+            "day": "1",
+            "time": "2"
+        },
+        {
+            "id": "B",
+            "className": "미분방정식",
+            "place": "수교6",
+            "day": "1",
+            "time": "2"
+        },
+        {
+            "id": "B",
+            "className": "정보과학융합프로젝트Ⅱ",
+            "place": "AI융",
+            "day": "1",
+            "time": "2"
+        },
+        {
+            "id": "B",
+            "className": "분자생물학",
+            "place": "생교",
+            "day": "1",
+            "time": "2"
+        },
+        {
+            "id": "B",
+            "className": "수학세미나Ⅱ",
+            "place": "수교7",
+            "day": "1",
+            "time": "3"
+        },
+        {
+            "id": "B",
+            "className": "미분방정식",
+            "place": "수교6",
+            "day": "1",
+            "time": "3"
+        },
+        {
+            "id": "B",
+            "className": "정보과학융합프로젝트Ⅱ",
+            "place": "AI융",
+            "day": "1",
+            "time": "3"
+        },
+        {
+            "id": "B",
+            "className": "분자생물학",
+            "place": "생교",
+            "day": "1",
+            "time": "3"
+        },
+        {
+            "id": "Z",
+            "className": "물리학세미나Ⅱ",
+            "place": "물교",
+            "day": "1",
+            "time": "4"
+        },
+        {
+            "id": "Z",
+            "className": "생명정보의 융합적 활용",
+            "place": "생교",
+            "day": "1",
+            "time": "4"
+        },
+        {
+            "id": "Z",
+            "className": "물리학세미나Ⅱ",
+            "place": "물교",
             "day": "1",
             "time": "5"
         },
         {
-            "id": "YT",
-            "className": "고급물리학",
-            "place": "물교",
+            "id": "Z",
+            "className": "생명정보의 융합적 활용",
+            "place": "생교",
             "day": "1",
             "time": "5"
         },
         {
             "id": "Y",
-            "className": "선형대수학",
-            "place": "수교6",
+            "className": "첨단화학",
+            "place": "화실1",
             "day": "1",
             "time": "6"
         },
         {
-            "id": "Y",
-            "className": "정보과학프로젝트",
-            "place": "AI융합",
-            "day": "1",
-            "time": "6"
-        },
-        {
-            "id": "Y2",
-            "className": "미술과테크놀로지",
-            "place": "미술실",
-            "day": "1",
-            "time": "6"
-        },
-        {
-            "id": "YT",
-            "className": "고급물리학",
-            "place": "물교",
-            "day": "1",
-            "time": "6"
-        },
-        {
-            "id": "M",
-            "className": "물리학세미나Ⅰ",
-            "place": "물교",
+            "id": "A",
+            "className": "수학세미나Ⅱ",
+            "place": "수교7",
             "day": "2",
             "time": "0"
         },
         {
-            "id": "M",
-            "className": "중국어",
-            "place": "외국어2",
+            "id": "A",
+            "className": "미분방정식",
+            "place": "수교6",
             "day": "2",
             "time": "0"
         },
         {
-            "id": "M",
-            "className": "심화바이오화학",
-            "place": "화실1,생교",
+            "id": "A",
+            "className": "정보과학융합프로젝트Ⅱ",
+            "place": "AI융",
             "day": "2",
             "time": "0"
         },
         {
-            "id": "L",
-            "className": "물리학세미나Ⅰ",
+            "id": "A",
+            "className": "Critical Reading",
+            "place": "외교3",
+            "day": "2",
+            "time": "0"
+        },
+        {
+            "id": "A",
+            "className": "수학세미나Ⅱ",
+            "place": "수교7",
+            "day": "2",
+            "time": "1"
+        },
+        {
+            "id": "A",
+            "className": "미분방정식",
+            "place": "수교6",
+            "day": "2",
+            "time": "1"
+        },
+        {
+            "id": "A",
+            "className": "정보과학융합프로젝트Ⅱ",
+            "place": "AI융",
+            "day": "2",
+            "time": "1"
+        },
+        {
+            "id": "A",
+            "className": "Critical Reading",
+            "place": "외교3",
+            "day": "2",
+            "time": "1"
+        },
+        {
+            "id": "M",
+            "className": "사회문화",
+            "place": "인교3",
+            "day": "2",
+            "time": "2"
+        },
+        {
+            "id": "C",
+            "className": "수학세미나Ⅱ",
+            "place": "수교7",
+            "day": "2",
+            "time": "3"
+        },
+        {
+            "id": "C",
+            "className": "화학세미나Ⅱ",
+            "place": "화교",
+            "day": "2",
+            "time": "3"
+        },
+        {
+            "id": "C",
+            "className": "정보과학융합프로젝트Ⅱ",
+            "place": "AI융",
+            "day": "2",
+            "time": "3"
+        },
+        {
+            "id": "C",
+            "className": "독서",
+            "place": "인교2",
+            "day": "2",
+            "time": "3"
+        },
+        {
+            "id": "Z",
+            "className": "물리학세미나Ⅱ",
             "place": "물교",
             "day": "2",
-            "time": "1"
+            "time": "4"
         },
         {
-            "id": "L",
-            "className": "중국어",
-            "place": "외국어2",
-            "day": "2",
-            "time": "1"
-        },
-        {
-            "id": "L",
-            "className": "일본어",
-            "place": "수교1",
-            "day": "2",
-            "time": "1"
-        },
-        {
-            "id": "L",
-            "className": "융합수학Ⅱ",
-            "place": "수교2",
-            "day": "2",
-            "time": "1"
-        },
-        {
-            "id": "X",
-            "className": "선형대수학",
-            "place": "수교6",
-            "day": "2",
-            "time": "2"
-        },
-        {
-            "id": "X",
-            "className": "심화물상과과학",
-            "place": "물실1",
-            "day": "2",
-            "time": "2"
-        },
-        {
-            "id": "X",
-            "className": "정보과학프로젝트",
-            "place": "AI융합",
-            "day": "2",
-            "time": "2"
-        },
-        {
-            "id": "XB",
-            "className": "고급영어독해",
-            "place": "외국어2",
-            "day": "2",
-            "time": "2"
-        },
-        {
-            "id": "X",
-            "className": "선형대수학",
-            "place": "수교6",
-            "day": "2",
-            "time": "3"
-        },
-        {
-            "id": "X",
-            "className": "심화물상과과학",
-            "place": "물실1",
-            "day": "2",
-            "time": "3"
-        },
-        {
-            "id": "X",
-            "className": "정보과학프로젝트",
-            "place": "AI융합",
-            "day": "2",
-            "time": "3"
-        },
-        {
-            "id": "XB",
-            "className": "고급영어독해",
-            "place": "외국어2",
-            "day": "2",
-            "time": "3"
-        },
-        {
-            "id": "XT",
-            "className": "심화바이오화학",
-            "place": "화실1,생교",
-            "day": "2",
-            "time": "3"
-        },
-        {
-            "id": "N",
-            "className": "생물학세미나Ⅰ",
+            "id": "Z",
+            "className": "생명정보의 융합적 활용",
             "place": "생교",
             "day": "2",
             "time": "4"
         },
         {
-            "id": "N",
-            "className": "중국어",
-            "place": "외국어3",
-            "day": "2",
-            "time": "4"
-        },
-        {
-            "id": "N",
-            "className": "일본어",
-            "place": "수교1",
-            "day": "2",
-            "time": "4"
-        },
-        {
-            "id": "N",
-            "className": "심화물상과과학",
-            "place": "물실1",
-            "day": "2",
-            "time": "4"
-        },
-        {
-            "id": "Y",
-            "className": "선형대수학",
-            "place": "수교6",
+            "id": "X",
+            "className": "시사영어",
+            "place": "외교3",
             "day": "3",
             "time": "0"
         },
         {
-            "id": "Y",
-            "className": "정보과학프로젝트",
-            "place": "AI융합",
+            "id": "X",
+            "className": "사회문화",
+            "place": "인교3",
             "day": "3",
             "time": "0"
         },
         {
-            "id": "C",
-            "className": "수학세미나Ⅰ",
-            "place": "수교6",
+            "id": "X",
+            "className": "생명정보의 융합적 활용",
+            "place": "생교",
+            "day": "3",
+            "time": "0"
+        },
+        {
+            "id": "X",
+            "className": "시사영어",
+            "place": "외교3",
             "day": "3",
             "time": "1"
         },
         {
-            "id": "C",
-            "className": "창의적 글쓰기",
-            "place": "인문2",
+            "id": "X",
+            "className": "사회문화",
+            "place": "인교3",
             "day": "3",
             "time": "1"
         },
         {
-            "id": "C",
-            "className": "화학세미나Ⅰ",
-            "place": "화교",
+            "id": "X",
+            "className": "생명정보의 융합적 활용",
+            "place": "생교",
             "day": "3",
             "time": "1"
         },
         {
-            "id": "D",
-            "className": "수학세미나Ⅰ",
-            "place": "수교6",
+            "id": "N",
+            "className": "사회문화",
+            "place": "인교3",
             "day": "3",
             "time": "2"
         },
         {
+            "id": "N2",
+            "className": "예술사",
+            "place": "디자인",
+            "day": "3",
+            "time": "2"
+        },
+        {
+            "id": "N2",
+            "className": "미래와 융합",
+            "place": "인교2, 외교3",
+            "day": "3",
+            "time": "2"
+        },
+        {
+            "id": "N",
+            "className": "사회문화",
+            "place": "인교3",
+            "day": "3",
+            "time": "3"
+        },
+        {
+            "id": "N2",
+            "className": "예술사",
+            "place": "음악",
+            "day": "3",
+            "time": "3"
+        },
+        {
+            "id": "N2",
+            "className": "미래와 융합",
+            "place": "인교2, 외교3",
+            "day": "3",
+            "time": "3"
+        },
+        {
             "id": "D",
-            "className": "화학세미나Ⅰ",
+            "className": "수학세미나Ⅱ",
             "place": "수교7",
             "day": "3",
-            "time": "2"
-        },
-        {
-            "id": "D",
-            "className": "물리학세미나Ⅰ",
-            "place": "물교",
-            "day": "3",
-            "time": "2"
-        },
-        {
-            "id": "D2",
-            "className": "미술과테크놀로지",
-            "place": "미술실",
-            "day": "3",
-            "time": "2"
-        },
-        {
-            "id": "D",
-            "className": "수학세미나Ⅰ",
-            "place": "수교6",
-            "day": "3",
-            "time": "3"
-        },
-        {
-            "id": "D",
-            "className": "화학세미나Ⅰ",
-            "place": "수교7",
-            "day": "3",
-            "time": "3"
-        },
-        {
-            "id": "D",
-            "className": "물리학세미나Ⅰ",
-            "place": "물교",
-            "day": "3",
-            "time": "3"
-        },
-        {
-            "id": "D2",
-            "className": "미술과테크놀로지",
-            "place": "미술실",
-            "day": "3",
-            "time": "3"
-        },
-        {
-            "id": "A",
-            "className": "수학세미나Ⅰ",
-            "place": "수교6",
-            "day": "3",
             "time": "4"
         },
         {
-            "id": "A",
-            "className": "창의적 글쓰기",
-            "place": "인문2",
-            "day": "3",
-            "time": "4"
-        },
-        {
-            "id": "A",
-            "className": "객체지향프로그래밍",
-            "place": "AI융합",
-            "day": "3",
-            "time": "4"
-        },
-        {
-            "id": "A",
-            "className": "세포생물학",
+            "id": "D",
+            "className": "생물학세미나Ⅱ",
             "place": "생교",
             "day": "3",
             "time": "4"
         },
         {
-            "id": "X",
-            "className": "선형대수학",
-            "place": "수교6",
-            "day": "3",
-            "time": "5"
-        },
-        {
-            "id": "X",
-            "className": "심화물상과과학",
-            "place": "물실1",
-            "day": "3",
-            "time": "5"
-        },
-        {
-            "id": "X",
-            "className": "정보과학프로젝트",
-            "place": "AI융합",
-            "day": "3",
-            "time": "5"
-        },
-        {
-            "id": "XT",
-            "className": "심화바이오화학",
-            "place": "화실1,생교",
-            "day": "3",
-            "time": "5"
-        },
-        {
-            "id": "YT",
-            "className": "고급물리학",
-            "place": "물실2",
-            "day": "3",
-            "time": "6"
-        },
-        {
-            "id": "XT",
-            "className": "심화바이오화학",
-            "place": "화실1,생교",
-            "day": "3",
-            "time": "6"
-        },
-        {
-            "id": "B",
-            "className": "수학세미나Ⅰ",
-            "place": "수교6",
-            "day": "4",
-            "time": "0"
-        },
-        {
-            "id": "B",
-            "className": "창의적 글쓰기",
-            "place": "인문2",
-            "day": "4",
-            "time": "0"
-        },
-        {
-            "id": "B2",
-            "className": "음악과테크놀로지",
-            "place": "음악실",
-            "day": "4",
-            "time": "0"
-        },
-        {
-            "id": "B",
-            "className": "수학세미나Ⅰ",
-            "place": "수교6",
-            "day": "4",
-            "time": "1"
-        },
-        {
-            "id": "B",
-            "className": "창의적 글쓰기",
-            "place": "인문2",
-            "day": "4",
-            "time": "1"
-        },
-        {
-            "id": "B2",
-            "className": "음악과테크놀로지",
-            "place": "음악실",
-            "day": "4",
-            "time": "1"
-        },
-        {
-            "id": "Z",
-            "className": "선형대수학",
-            "place": "수교6",
-            "day": "4",
-            "time": "2"
-        },
-        {
-            "id": "Z",
-            "className": "유기화학의이해",
-            "place": "화교",
-            "day": "4",
-            "time": "2"
-        },
-        {
-            "id": "Z",
-            "className": "융합수학Ⅱ",
-            "place": "수교4",
-            "day": "4",
-            "time": "2"
-        },
-        {
-            "id": "Z2",
-            "className": "음악과테크놀로지",
-            "place": "음악실",
-            "day": "4",
-            "time": "2"
-        },
-        {
-            "id": "Z2",
-            "className": "미술과테크놀로지",
-            "place": "미술실",
-            "day": "4",
-            "time": "2"
-        },
-        {
-            "id": "Z",
-            "className": "선형대수학",
-            "place": "수교6",
-            "day": "4",
-            "time": "3"
-        },
-        {
-            "id": "Z",
-            "className": "유기화학의이해",
-            "place": "화교",
-            "day": "4",
-            "time": "3"
-        },
-        {
-            "id": "Z",
-            "className": "융합수학Ⅱ",
-            "place": "수교4",
-            "day": "4",
-            "time": "3"
-        },
-        {
-            "id": "Z2",
-            "className": "음악과테크놀로지",
-            "place": "음악실",
-            "day": "4",
-            "time": "3"
-        },
-        {
-            "id": "Z2",
-            "className": "미술과테크놀로지",
-            "place": "미술실",
-            "day": "4",
-            "time": "3"
-        },
-        {
             "id": "D",
-            "className": "수학세미나Ⅰ",
-            "place": "수교6",
-            "day": "4",
+            "className": "정보과학융합프로젝트Ⅱ",
+            "place": "AI융",
+            "day": "3",
             "time": "4"
         },
         {
             "id": "D",
-            "className": "화학세미나Ⅰ",
+            "className": "사회문화",
+            "place": "인교3",
+            "day": "3",
+            "time": "4"
+        },
+        {
+            "id": "D",
+            "className": "수학세미나Ⅱ",
+            "place": "수교7",
+            "day": "3",
+            "time": "5"
+        },
+        {
+            "id": "D",
+            "className": "생물학세미나Ⅱ",
+            "place": "생교",
+            "day": "3",
+            "time": "5"
+        },
+        {
+            "id": "D",
+            "className": "정보과학융합프로젝트Ⅱ",
+            "place": "AI융",
+            "day": "3",
+            "time": "5"
+        },
+        {
+            "id": "D",
+            "className": "사회문화",
+            "place": "인교3",
+            "day": "3",
+            "time": "5"
+        },
+        {
+            "id": "L",
+            "className": "화학세미나Ⅱ",
+            "place": "화교",
+            "day": "3",
+            "time": "6"
+        },
+        {
+            "id": "L",
+            "className": "생명정보의 융합적 활용",
+            "place": "생교",
+            "day": "3",
+            "time": "6"
+        },
+        {
+            "id": "L",
+            "className": "물리학세미나Ⅱ",
+            "place": "물교",
+            "day": "3",
+            "time": "6"
+        },
+        {
+            "id": "C",
+            "className": "수학세미나Ⅱ",
             "place": "수교7",
             "day": "4",
-            "time": "4"
+            "time": "0"
         },
         {
-            "id": "D",
-            "className": "물리학세미나Ⅰ",
+            "id": "CF",
+            "className": "물리학세미나Ⅱ",
             "place": "물교",
             "day": "4",
-            "time": "4"
+            "time": "0"
+        },
+        {
+            "id": "C",
+            "className": "화학세미나Ⅱ",
+            "place": "화교",
+            "day": "4",
+            "time": "0"
+        },
+        {
+            "id": "C",
+            "className": "정보과학융합프로젝트Ⅱ",
+            "place": "AI융",
+            "day": "4",
+            "time": "0"
+        },
+        {
+            "id": "C",
+            "className": "독서",
+            "place": "인교2",
+            "day": "4",
+            "time": "0"
+        },
+        {
+            "id": "C",
+            "className": "수학세미나Ⅱ",
+            "place": "수교7",
+            "day": "4",
+            "time": "1"
+        },
+        {
+            "id": "CF",
+            "className": "물리학세미나Ⅱ",
+            "place": "물교",
+            "day": "4",
+            "time": "1"
+        },
+        {
+            "id": "C",
+            "className": "화학세미나Ⅱ",
+            "place": "화교",
+            "day": "4",
+            "time": "1"
+        },
+        {
+            "id": "C",
+            "className": "정보과학융합프로젝트Ⅱ",
+            "place": "AI융",
+            "day": "4",
+            "time": "1"
+        },
+        {
+            "id": "C",
+            "className": "독서",
+            "place": "인교2",
+            "day": "4",
+            "time": "1"
+        },
+        {
+            "id": "X",
+            "className": "시사영어",
+            "place": "외교3",
+            "day": "4",
+            "time": "2"
+        },
+        {
+            "id": "X",
+            "className": "생명정보의 융합적 활용",
+            "place": "생교",
+            "day": "4",
+            "time": "2"
+        },
+        {
+            "id": "X",
+            "className": "사회문화",
+            "place": "인교3",
+            "day": "4",
+            "time": "2"
+        },
+        {
+            "id": "B",
+            "className": "수학세미나Ⅱ",
+            "place": "수교7",
+            "day": "4",
+            "time": "3"
+        },
+        {
+            "id": "B",
+            "className": "미분방정식",
+            "place": "수교6",
+            "day": "4",
+            "time": "3"
+        },
+        {
+            "id": "B",
+            "className": "정보과학융합프로젝트Ⅱ",
+            "place": "AI융",
+            "day": "4",
+            "time": "3"
         }
     ],
     "user": [
@@ -819,40 +651,24 @@
             "id": "30101",
             "data": [
                 {
-                    "className": "수학세미나Ⅰ",
+                    "className": "수학세미나Ⅱ",
                     "id": "B"
                 },
                 {
-                    "className": "창의적 글쓰기",
-                    "id": "A"
+                    "className": "화학세미나Ⅱ",
+                    "id": "L"
                 },
                 {
-                    "className": "화학세미나Ⅰ",
-                    "id": "C"
-                },
-                {
-                    "className": "중국어",
-                    "id": "N"
-                },
-                {
-                    "className": "선형대수학",
+                    "className": "생명정보의 융합적 활용",
                     "id": "X"
                 },
                 {
-                    "className": "미술과테크놀로지",
-                    "id": "Y2"
+                    "className": "정보과학융합프로젝트Ⅱ",
+                    "id": "A"
                 },
                 {
-                    "className": "심화바이오화학",
-                    "id": "M"
-                },
-                {
-                    "className": "유기화학의이해",
-                    "id": "Z"
-                },
-                {
-                    "className": "융합수학Ⅱ",
-                    "id": "L"
+                    "className": "독서",
+                    "id": "C"
                 }
             ]
         },
@@ -861,36 +677,32 @@
             "id": "30102",
             "data": [
                 {
-                    "className": "수학세미나Ⅰ",
-                    "id": "A"
+                    "className": "수학세미나Ⅱ",
+                    "id": "B"
                 },
                 {
-                    "className": "창의적 글쓰기",
-                    "id": "C"
+                    "className": "화학세미나Ⅱ",
+                    "id": "L"
                 },
                 {
-                    "className": "화학세미나Ⅰ",
+                    "className": "예술사",
+                    "id": "M2"
+                },
+                {
+                    "className": "정보과학융합프로젝트Ⅱ",
                     "id": "D"
                 },
                 {
-                    "className": "음악과테크놀로지",
-                    "id": "B2"
+                    "className": "미래와 융합",
+                    "id": "N2"
                 },
                 {
-                    "className": "중국어",
-                    "id": "N"
+                    "className": "첨단화학",
+                    "id": "Y"
                 },
                 {
-                    "className": "미술과테크놀로지",
-                    "id": "Y2"
-                },
-                {
-                    "className": "심화바이오화학",
-                    "id": "XT"
-                },
-                {
-                    "className": "유기화학의이해",
-                    "id": "Z"
+                    "className": "독서",
+                    "id": "C"
                 }
             ]
         },
@@ -899,36 +711,32 @@
             "id": "30103",
             "data": [
                 {
-                    "className": "수학세미나Ⅰ",
-                    "id": "C"
-                },
-                {
-                    "className": "창의적 글쓰기",
+                    "className": "수학세미나Ⅱ",
                     "id": "A"
                 },
                 {
-                    "className": "음악과테크놀로지",
-                    "id": "B2"
+                    "className": "예술사",
+                    "id": "N2"
                 },
                 {
-                    "className": "생물학세미나Ⅰ",
-                    "id": "N"
+                    "className": "생명정보의 융합적 활용",
+                    "id": "L"
                 },
                 {
-                    "className": "중국어",
+                    "className": "정보과학융합프로젝트Ⅱ",
+                    "id": "C"
+                },
+                {
+                    "className": "분자생물학",
+                    "id": "B"
+                },
+                {
+                    "className": "사회문화",
                     "id": "M"
                 },
                 {
-                    "className": "선형대수학",
-                    "id": "Z"
-                },
-                {
-                    "className": "미술과테크놀로지",
-                    "id": "Y2"
-                },
-                {
-                    "className": "심화물상과과학",
-                    "id": "X"
+                    "className": "생물학세미나Ⅱ",
+                    "id": "D"
                 }
             ]
         },
@@ -937,36 +745,32 @@
             "id": "30104",
             "data": [
                 {
-                    "className": "수학세미나Ⅰ",
-                    "id": "A"
-                },
-                {
-                    "className": "창의적 글쓰기",
+                    "className": "수학세미나Ⅱ",
                     "id": "C"
                 },
                 {
-                    "className": "화학세미나Ⅰ",
+                    "className": "화학세미나Ⅱ",
+                    "id": "L"
+                },
+                {
+                    "className": "예술사",
+                    "id": "M2"
+                },
+                {
+                    "className": "정보과학융합프로젝트Ⅱ",
                     "id": "D"
                 },
                 {
-                    "className": "음악과테크놀로지",
-                    "id": "B2"
+                    "className": "미래와 융합",
+                    "id": "N2"
                 },
                 {
-                    "className": "일본어",
-                    "id": "N"
+                    "className": "첨단화학",
+                    "id": "Y"
                 },
                 {
-                    "className": "미술과테크놀로지",
-                    "id": "Y2"
-                },
-                {
-                    "className": "심화바이오화학",
-                    "id": "M"
-                },
-                {
-                    "className": "유기화학의이해",
-                    "id": "Z"
+                    "className": "사회문화",
+                    "id": "X"
                 }
             ]
         },
@@ -975,36 +779,32 @@
             "id": "30105",
             "data": [
                 {
-                    "className": "수학세미나Ⅰ",
-                    "id": "D"
+                    "className": "수학세미나Ⅱ",
+                    "id": "B"
                 },
                 {
-                    "className": "화학세미나Ⅰ",
+                    "className": "화학세미나Ⅱ",
                     "id": "C"
                 },
                 {
-                    "className": "음악과테크놀로지",
-                    "id": "A2"
+                    "className": "예술사",
+                    "id": "M2"
                 },
                 {
-                    "className": "일본어",
-                    "id": "L"
+                    "className": "정보과학융합프로젝트Ⅱ",
+                    "id": "D"
                 },
                 {
-                    "className": "미술과테크놀로지",
-                    "id": "Y2"
+                    "className": "미래와 융합",
+                    "id": "N2"
                 },
                 {
-                    "className": "심화바이오화학",
-                    "id": "M"
+                    "className": "첨단화학",
+                    "id": "Y"
                 },
                 {
-                    "className": "유기화학의이해",
-                    "id": "Z"
-                },
-                {
-                    "className": "고급영어독해",
-                    "id": "XB"
+                    "className": "사회문화",
+                    "id": "X"
                 }
             ]
         },
@@ -1013,32 +813,32 @@
             "id": "30106",
             "data": [
                 {
-                    "className": "수학세미나Ⅰ",
-                    "id": "B"
-                },
-                {
-                    "className": "객체지향프로그래밍",
+                    "className": "수학세미나Ⅱ",
                     "id": "A"
                 },
                 {
-                    "className": "음악과테크놀로지",
-                    "id": "Z2"
+                    "className": "미분방정식",
+                    "id": "B"
                 },
                 {
-                    "className": "중국어",
-                    "id": "N"
+                    "className": "물리학세미나Ⅱ",
+                    "id": "CF"
                 },
                 {
-                    "className": "선형대수학",
-                    "id": "X"
-                },
-                {
-                    "className": "융합수학Ⅱ",
+                    "className": "생명정보의 융합적 활용",
                     "id": "L"
                 },
                 {
-                    "className": "정보과학프로젝트",
-                    "id": "Y"
+                    "className": "정보과학융합프로젝트Ⅱ",
+                    "id": "D"
+                },
+                {
+                    "className": "사회문화",
+                    "id": "M"
+                },
+                {
+                    "className": "시사영어",
+                    "id": "X"
                 }
             ]
         },
@@ -1047,40 +847,24 @@
             "id": "30107",
             "data": [
                 {
-                    "className": "창의적 글쓰기",
+                    "className": "미분방정식",
+                    "id": "A"
+                },
+                {
+                    "className": "화학세미나Ⅱ",
                     "id": "C"
                 },
                 {
-                    "className": "화학세미나Ⅰ",
-                    "id": "D"
+                    "className": "정보과학융합프로젝트Ⅱ",
+                    "id": "B"
                 },
                 {
-                    "className": "음악과테크놀로지",
-                    "id": "A2"
-                },
-                {
-                    "className": "일본어",
-                    "id": "N"
-                },
-                {
-                    "className": "선형대수학",
+                    "className": "첨단화학",
                     "id": "Y"
                 },
                 {
-                    "className": "심화물상과과학",
+                    "className": "시사영어",
                     "id": "X"
-                },
-                {
-                    "className": "심화바이오화학",
-                    "id": "M"
-                },
-                {
-                    "className": "유기화학의이해",
-                    "id": "Z"
-                },
-                {
-                    "className": "융합수학Ⅱ",
-                    "id": "L"
                 }
             ]
         },
@@ -1089,36 +873,32 @@
             "id": "30108",
             "data": [
                 {
-                    "className": "수학세미나Ⅰ",
+                    "className": "수학세미나Ⅱ",
                     "id": "C"
                 },
                 {
-                    "className": "창의적 글쓰기",
+                    "className": "미분방정식",
+                    "id": "A"
+                },
+                {
+                    "className": "물리학세미나Ⅱ",
+                    "id": "Z"
+                },
+                {
+                    "className": "예술사",
+                    "id": "N2"
+                },
+                {
+                    "className": "정보과학융합프로젝트Ⅱ",
                     "id": "B"
                 },
                 {
-                    "className": "음악과테크놀로지",
-                    "id": "Z2"
+                    "className": "미래와 융합",
+                    "id": "Y2"
                 },
                 {
-                    "className": "물리학세미나Ⅰ",
-                    "id": "M"
-                },
-                {
-                    "className": "중국어",
-                    "id": "L"
-                },
-                {
-                    "className": "선형대수학",
-                    "id": "Y"
-                },
-                {
-                    "className": "미술과테크놀로지",
-                    "id": "D2"
-                },
-                {
-                    "className": "심화물상과과학",
-                    "id": "X"
+                    "className": "사회문화",
+                    "id": "D"
                 }
             ]
         },
@@ -1127,40 +907,28 @@
             "id": "30109",
             "data": [
                 {
-                    "className": "수학세미나Ⅰ",
-                    "id": "C"
-                },
-                {
-                    "className": "창의적 글쓰기",
+                    "className": "수학세미나Ⅱ",
                     "id": "B"
                 },
                 {
-                    "className": "음악과테크놀로지",
-                    "id": "A2"
+                    "className": "물리학세미나Ⅱ",
+                    "id": "L"
                 },
                 {
-                    "className": "물리학세미나Ⅰ",
-                    "id": "M"
+                    "className": "예술사",
+                    "id": "Y2"
                 },
                 {
-                    "className": "일본어",
-                    "id": "N"
-                },
-                {
-                    "className": "고급물리학",
-                    "id": "YT"
-                },
-                {
-                    "className": "선형대수학",
-                    "id": "Z"
-                },
-                {
-                    "className": "미술과테크놀로지",
-                    "id": "D2"
-                },
-                {
-                    "className": "심화물상과과학",
+                    "className": "생명정보의 융합적 활용",
                     "id": "X"
+                },
+                {
+                    "className": "정보과학융합프로젝트Ⅱ",
+                    "id": "C"
+                },
+                {
+                    "className": "사회문화",
+                    "id": "D"
                 }
             ]
         },
@@ -1169,35 +937,31 @@
             "id": "30110",
             "data": [
                 {
-                    "className": "수학세미나Ⅰ",
-                    "id": "B"
+                    "className": "수학세미나Ⅱ",
+                    "id": "C"
                 },
                 {
-                    "className": "창의적 글쓰기",
+                    "className": "미분방정식",
                     "id": "A"
                 },
                 {
-                    "className": "음악과테크놀로지",
-                    "id": "C2"
+                    "className": "물리학세미나Ⅱ",
+                    "id": "Z"
                 },
                 {
-                    "className": "물리학세미나Ⅰ",
-                    "id": "D"
+                    "className": "예술사",
+                    "id": "N2"
                 },
                 {
-                    "className": "중국어",
-                    "id": "N"
+                    "className": "정보과학융합프로젝트Ⅱ",
+                    "id": "B"
                 },
                 {
-                    "className": "고급물리학",
-                    "id": "YT"
+                    "className": "미래와 융합",
+                    "id": "Y2"
                 },
                 {
-                    "className": "미술과테크놀로지",
-                    "id": "Z2"
-                },
-                {
-                    "className": "심화물상과과학",
+                    "className": "시사영어",
                     "id": "X"
                 }
             ]
@@ -1207,35 +971,27 @@
             "id": "30111",
             "data": [
                 {
-                    "className": "수학세미나Ⅰ",
+                    "className": "수학세미나Ⅱ",
                     "id": "A"
                 },
                 {
-                    "className": "창의적 글쓰기",
-                    "id": "C"
+                    "className": "미분방정식",
+                    "id": "B"
                 },
                 {
-                    "className": "물리학세미나Ⅰ",
-                    "id": "L"
-                },
-                {
-                    "className": "중국어",
-                    "id": "M"
-                },
-                {
-                    "className": "선형대수학",
-                    "id": "Y"
-                },
-                {
-                    "className": "심화물상과과학",
-                    "id": "N"
-                },
-                {
-                    "className": "융합수학Ⅱ",
+                    "className": "물리학세미나Ⅱ",
                     "id": "Z"
                 },
                 {
-                    "className": "정보과학프로젝트",
+                    "className": "예술사",
+                    "id": "Y2"
+                },
+                {
+                    "className": "정보과학융합프로젝트Ⅱ",
+                    "id": "C"
+                },
+                {
+                    "className": "시사영어",
                     "id": "X"
                 }
             ]
@@ -1245,32 +1001,36 @@
             "id": "30112",
             "data": [
                 {
-                    "className": "수학세미나Ⅰ",
-                    "id": "D"
-                },
-                {
-                    "className": "세포생물학",
+                    "className": "수학세미나Ⅱ",
                     "id": "A"
                 },
                 {
-                    "className": "음악과테크놀로지",
-                    "id": "C2"
+                    "className": "예술사",
+                    "id": "Y2"
                 },
                 {
-                    "className": "생물학세미나Ⅰ",
-                    "id": "N"
-                },
-                {
-                    "className": "일본어",
+                    "className": "생명정보의 융합적 활용",
                     "id": "L"
                 },
                 {
-                    "className": "미술과테크놀로지",
-                    "id": "Z2"
+                    "className": "미래와 융합",
+                    "id": "N2"
                 },
                 {
-                    "className": "심화바이오화학",
-                    "id": "XT"
+                    "className": "분자생물학",
+                    "id": "B"
+                },
+                {
+                    "className": "독서",
+                    "id": "C"
+                },
+                {
+                    "className": "사회문화",
+                    "id": "X"
+                },
+                {
+                    "className": "생물학세미나Ⅱ",
+                    "id": "D"
                 }
             ]
         },
@@ -1279,32 +1039,32 @@
             "id": "30113",
             "data": [
                 {
-                    "className": "수학세미나Ⅰ",
-                    "id": "A"
+                    "className": "수학세미나Ⅱ",
+                    "id": "D"
                 },
                 {
-                    "className": "물리학세미나Ⅰ",
+                    "className": "미분방정식",
+                    "id": "B"
+                },
+                {
+                    "className": "예술사",
+                    "id": "Y2"
+                },
+                {
+                    "className": "생명정보의 융합적 활용",
                     "id": "L"
                 },
                 {
-                    "className": "중국어",
+                    "className": "정보과학융합프로젝트Ⅱ",
+                    "id": "C"
+                },
+                {
+                    "className": "Critical Reading",
+                    "id": "A"
+                },
+                {
+                    "className": "사회문화",
                     "id": "M"
-                },
-                {
-                    "className": "고급물리학",
-                    "id": "YT"
-                },
-                {
-                    "className": "선형대수학",
-                    "id": "X"
-                },
-                {
-                    "className": "심화물상과과학",
-                    "id": "N"
-                },
-                {
-                    "className": "융합수학Ⅱ",
-                    "id": "Z"
                 }
             ]
         },
@@ -1313,36 +1073,32 @@
             "id": "30114",
             "data": [
                 {
-                    "className": "수학세미나Ⅰ",
-                    "id": "B"
+                    "className": "수학세미나Ⅱ",
+                    "id": "C"
                 },
                 {
-                    "className": "창의적 글쓰기",
+                    "className": "미분방정식",
                     "id": "A"
                 },
                 {
-                    "className": "화학세미나Ⅰ",
+                    "className": "화학세미나Ⅱ",
+                    "id": "L"
+                },
+                {
+                    "className": "예술사",
+                    "id": "Y2"
+                },
+                {
+                    "className": "생명정보의 융합적 활용",
+                    "id": "X"
+                },
+                {
+                    "className": "정보과학융합프로젝트Ⅱ",
+                    "id": "B"
+                },
+                {
+                    "className": "사회문화",
                     "id": "D"
-                },
-                {
-                    "className": "음악과테크놀로지",
-                    "id": "C2"
-                },
-                {
-                    "className": "중국어",
-                    "id": "M"
-                },
-                {
-                    "className": "선형대수학",
-                    "id": "Y"
-                },
-                {
-                    "className": "미술과테크놀로지",
-                    "id": "Z2"
-                },
-                {
-                    "className": "심화바이오화학",
-                    "id": "XT"
                 }
             ]
         },
@@ -1351,31 +1107,35 @@
             "id": "30115",
             "data": [
                 {
-                    "className": "수학세미나Ⅰ",
-                    "id": "A"
-                },
-                {
-                    "className": "음악과테크놀로지",
-                    "id": "C2"
-                },
-                {
-                    "className": "물리학세미나Ⅰ",
+                    "className": "수학세미나Ⅱ",
                     "id": "D"
                 },
                 {
-                    "className": "중국어",
-                    "id": "N"
+                    "className": "미분방정식",
+                    "id": "A"
                 },
                 {
-                    "className": "선형대수학",
-                    "id": "Y"
+                    "className": "물리학세미나Ⅱ",
+                    "id": "CF"
                 },
                 {
-                    "className": "미술과테크놀로지",
-                    "id": "Z2"
+                    "className": "예술사",
+                    "id": "Y2"
                 },
                 {
-                    "className": "심화물상과과학",
+                    "className": "정보과학융합프로젝트Ⅱ",
+                    "id": "B"
+                },
+                {
+                    "className": "미래와 융합",
+                    "id": "N2"
+                },
+                {
+                    "className": "사회문화",
+                    "id": "M"
+                },
+                {
+                    "className": "시사영어",
                     "id": "X"
                 }
             ]
@@ -1385,36 +1145,32 @@
             "id": "30116",
             "data": [
                 {
-                    "className": "수학세미나Ⅰ",
+                    "className": "수학세미나Ⅱ",
                     "id": "B"
                 },
                 {
-                    "className": "창의적 글쓰기",
-                    "id": "A"
+                    "className": "화학세미나Ⅱ",
+                    "id": "C"
                 },
                 {
-                    "className": "화학세미나Ⅰ",
-                    "id": "D"
+                    "className": "예술사",
+                    "id": "M2"
                 },
                 {
-                    "className": "음악과테크놀로지",
-                    "id": "C2"
-                },
-                {
-                    "className": "중국어",
+                    "className": "생명정보의 융합적 활용",
                     "id": "L"
                 },
                 {
-                    "className": "미술과테크놀로지",
-                    "id": "Y2"
+                    "className": "미래와 융합",
+                    "id": "N2"
                 },
                 {
-                    "className": "심화바이오화학",
-                    "id": "XT"
+                    "className": "첨단화학",
+                    "id": "Y"
                 },
                 {
-                    "className": "유기화학의이해",
-                    "id": "Z"
+                    "className": "사회문화",
+                    "id": "D"
                 }
             ]
         },
@@ -1423,36 +1179,32 @@
             "id": "30201",
             "data": [
                 {
-                    "className": "수학세미나Ⅰ",
-                    "id": "C"
-                },
-                {
-                    "className": "창의적 글쓰기",
-                    "id": "B"
-                },
-                {
-                    "className": "세포생물학",
+                    "className": "수학세미나Ⅱ",
                     "id": "A"
                 },
                 {
-                    "className": "음악과테크놀로지",
-                    "id": "Z2"
+                    "className": "예술사",
+                    "id": "N2"
                 },
                 {
-                    "className": "생물학세미나Ⅰ",
-                    "id": "N"
-                },
-                {
-                    "className": "중국어",
+                    "className": "생명정보의 융합적 활용",
                     "id": "L"
                 },
                 {
-                    "className": "미술과테크놀로지",
-                    "id": "D2"
+                    "className": "정보과학융합프로젝트Ⅱ",
+                    "id": "C"
                 },
                 {
-                    "className": "심화바이오화학",
-                    "id": "XT"
+                    "className": "분자생물학",
+                    "id": "B"
+                },
+                {
+                    "className": "사회문화",
+                    "id": "X"
+                },
+                {
+                    "className": "생물학세미나Ⅱ",
+                    "id": "D"
                 }
             ]
         },
@@ -1461,32 +1213,32 @@
             "id": "30202",
             "data": [
                 {
-                    "className": "수학세미나Ⅰ",
+                    "className": "수학세미나Ⅱ",
+                    "id": "C"
+                },
+                {
+                    "className": "미분방정식",
                     "id": "A"
                 },
                 {
-                    "className": "창의적 글쓰기",
-                    "id": "B"
-                },
-                {
-                    "className": "물리학세미나Ⅰ",
-                    "id": "D"
-                },
-                {
-                    "className": "중국어",
-                    "id": "M"
-                },
-                {
-                    "className": "선형대수학",
+                    "className": "물리학세미나Ⅱ",
                     "id": "Z"
                 },
                 {
-                    "className": "융합수학Ⅱ",
-                    "id": "L"
+                    "className": "예술사",
+                    "id": "Y2"
                 },
                 {
-                    "className": "정보과학프로젝트",
+                    "className": "생명정보의 융합적 활용",
                     "id": "X"
+                },
+                {
+                    "className": "정보과학융합프로젝트Ⅱ",
+                    "id": "B"
+                },
+                {
+                    "className": "사회문화",
+                    "id": "D"
                 }
             ]
         },
@@ -1495,36 +1247,32 @@
             "id": "30203",
             "data": [
                 {
-                    "className": "수학세미나Ⅰ",
-                    "id": "B"
-                },
-                {
-                    "className": "창의적 글쓰기",
-                    "id": "C"
-                },
-                {
-                    "className": "세포생물학",
+                    "className": "수학세미나Ⅱ",
                     "id": "A"
                 },
                 {
-                    "className": "음악과테크놀로지",
-                    "id": "Z2"
-                },
-                {
-                    "className": "생물학세미나Ⅰ",
-                    "id": "N"
-                },
-                {
-                    "className": "일본어",
-                    "id": "L"
-                },
-                {
-                    "className": "미술과테크놀로지",
+                    "className": "예술사",
                     "id": "Y2"
                 },
                 {
-                    "className": "심화바이오화학",
-                    "id": "M"
+                    "className": "생명정보의 융합적 활용",
+                    "id": "L"
+                },
+                {
+                    "className": "미래와 융합",
+                    "id": "N2"
+                },
+                {
+                    "className": "분자생물학",
+                    "id": "B"
+                },
+                {
+                    "className": "사회문화",
+                    "id": "X"
+                },
+                {
+                    "className": "생물학세미나Ⅱ",
+                    "id": "D"
                 }
             ]
         },
@@ -1533,36 +1281,32 @@
             "id": "30204",
             "data": [
                 {
-                    "className": "수학세미나Ⅰ",
+                    "className": "수학세미나Ⅱ",
                     "id": "B"
                 },
                 {
-                    "className": "창의적 글쓰기",
-                    "id": "A"
+                    "className": "물리학세미나Ⅱ",
+                    "id": "CF"
                 },
                 {
-                    "className": "음악과테크놀로지",
-                    "id": "C2"
+                    "className": "예술사",
+                    "id": "N2"
                 },
                 {
-                    "className": "물리학세미나Ⅰ",
-                    "id": "D"
-                },
-                {
-                    "className": "중국어",
+                    "className": "생명정보의 융합적 활용",
                     "id": "L"
                 },
                 {
-                    "className": "고급물리학",
-                    "id": "YT"
+                    "className": "정보과학융합프로젝트Ⅱ",
+                    "id": "A"
                 },
                 {
-                    "className": "선형대수학",
-                    "id": "X"
+                    "className": "미래와 융합",
+                    "id": "Y2"
                 },
                 {
-                    "className": "미술과테크놀로지",
-                    "id": "Z2"
+                    "className": "사회문화",
+                    "id": "D"
                 }
             ]
         },
@@ -1571,36 +1315,32 @@
             "id": "30205",
             "data": [
                 {
-                    "className": "수학세미나Ⅰ",
-                    "id": "B"
+                    "className": "수학세미나Ⅱ",
+                    "id": "D"
                 },
                 {
-                    "className": "창의적 글쓰기",
-                    "id": "C"
+                    "className": "물리학세미나Ⅱ",
+                    "id": "CF"
                 },
                 {
-                    "className": "음악과테크놀로지",
-                    "id": "A2"
+                    "className": "예술사",
+                    "id": "M2"
                 },
                 {
-                    "className": "물리학세미나Ⅰ",
-                    "id": "L"
-                },
-                {
-                    "className": "중국어",
-                    "id": "N"
-                },
-                {
-                    "className": "고급물리학",
-                    "id": "YT"
-                },
-                {
-                    "className": "선형대수학",
+                    "className": "생명정보의 융합적 활용",
                     "id": "X"
                 },
                 {
-                    "className": "미술과테크놀로지",
-                    "id": "Z2"
+                    "className": "정보과학융합프로젝트Ⅱ",
+                    "id": "B"
+                },
+                {
+                    "className": "미래와 융합",
+                    "id": "N2"
+                },
+                {
+                    "className": "Critical Reading",
+                    "id": "A"
                 }
             ]
         },
@@ -1609,36 +1349,32 @@
             "id": "30206",
             "data": [
                 {
-                    "className": "수학세미나Ⅰ",
-                    "id": "A"
-                },
-                {
-                    "className": "창의적 글쓰기",
-                    "id": "B"
-                },
-                {
-                    "className": "음악과테크놀로지",
-                    "id": "C2"
-                },
-                {
-                    "className": "물리학세미나Ⅰ",
+                    "className": "수학세미나Ⅱ",
                     "id": "D"
                 },
                 {
-                    "className": "중국어",
+                    "className": "미분방정식",
+                    "id": "A"
+                },
+                {
+                    "className": "물리학세미나Ⅱ",
                     "id": "L"
                 },
                 {
-                    "className": "선형대수학",
-                    "id": "Y"
+                    "className": "예술사",
+                    "id": "N2"
                 },
                 {
-                    "className": "미술과테크놀로지",
-                    "id": "Z2"
+                    "className": "정보과학융합프로젝트Ⅱ",
+                    "id": "C"
                 },
                 {
-                    "className": "심화물상과과학",
-                    "id": "N"
+                    "className": "미래와 융합",
+                    "id": "Y2"
+                },
+                {
+                    "className": "사회문화",
+                    "id": "X"
                 }
             ]
         },
@@ -1647,36 +1383,28 @@
             "id": "30207",
             "data": [
                 {
-                    "className": "수학세미나Ⅰ",
-                    "id": "B"
+                    "className": "수학세미나Ⅱ",
+                    "id": "D"
                 },
                 {
-                    "className": "창의적 글쓰기",
-                    "id": "C"
-                },
-                {
-                    "className": "객체지향프로그래밍",
+                    "className": "미분방정식",
                     "id": "A"
                 },
                 {
-                    "className": "물리학세미나Ⅰ",
+                    "className": "물리학세미나Ⅱ",
                     "id": "L"
                 },
                 {
-                    "className": "중국어",
+                    "className": "정보과학융합프로젝트Ⅱ",
+                    "id": "C"
+                },
+                {
+                    "className": "미래와 융합",
+                    "id": "Y2"
+                },
+                {
+                    "className": "사회문화",
                     "id": "M"
-                },
-                {
-                    "className": "심화물상과과학",
-                    "id": "N"
-                },
-                {
-                    "className": "융합수학Ⅱ",
-                    "id": "Z"
-                },
-                {
-                    "className": "정보과학프로젝트",
-                    "id": "X"
                 }
             ]
         },
@@ -1685,35 +1413,31 @@
             "id": "30208",
             "data": [
                 {
-                    "className": "수학세미나Ⅰ",
-                    "id": "D"
-                },
-                {
-                    "className": "창의적 글쓰기",
+                    "className": "수학세미나Ⅱ",
                     "id": "B"
                 },
                 {
-                    "className": "음악과테크놀로지",
-                    "id": "A2"
+                    "className": "물리학세미나Ⅱ",
+                    "id": "CF"
                 },
                 {
-                    "className": "물리학세미나Ⅰ",
-                    "id": "L"
+                    "className": "예술사",
+                    "id": "Y2"
                 },
                 {
-                    "className": "중국어",
-                    "id": "N"
-                },
-                {
-                    "className": "고급물리학",
-                    "id": "YT"
-                },
-                {
-                    "className": "선형대수학",
+                    "className": "생명정보의 융합적 활용",
                     "id": "Z"
                 },
                 {
-                    "className": "심화물상과과학",
+                    "className": "정보과학융합프로젝트Ⅱ",
+                    "id": "D"
+                },
+                {
+                    "className": "미래와 융합",
+                    "id": "N2"
+                },
+                {
+                    "className": "사회문화",
                     "id": "X"
                 }
             ]
@@ -1723,32 +1447,36 @@
             "id": "30209",
             "data": [
                 {
-                    "className": "수학세미나Ⅰ",
+                    "className": "수학세미나Ⅱ",
                     "id": "D"
                 },
                 {
-                    "className": "화학세미나Ⅰ",
+                    "className": "미분방정식",
+                    "id": "B"
+                },
+                {
+                    "className": "화학세미나Ⅱ",
+                    "id": "L"
+                },
+                {
+                    "className": "예술사",
+                    "id": "Y2"
+                },
+                {
+                    "className": "생명정보의 융합적 활용",
+                    "id": "Z"
+                },
+                {
+                    "className": "정보과학융합프로젝트Ⅱ",
                     "id": "C"
                 },
                 {
-                    "className": "음악과테크놀로지",
-                    "id": "A2"
+                    "className": "Critical Reading",
+                    "id": "A"
                 },
                 {
-                    "className": "중국어",
-                    "id": "M"
-                },
-                {
-                    "className": "선형대수학",
-                    "id": "Y"
-                },
-                {
-                    "className": "미술과테크놀로지",
-                    "id": "Z2"
-                },
-                {
-                    "className": "융합수학Ⅱ",
-                    "id": "L"
+                    "className": "사회문화",
+                    "id": "X"
                 }
             ]
         },
@@ -1757,36 +1485,28 @@
             "id": "30210",
             "data": [
                 {
-                    "className": "수학세미나Ⅰ",
-                    "id": "C"
-                },
-                {
-                    "className": "창의적 글쓰기",
-                    "id": "A"
-                },
-                {
-                    "className": "물리학세미나Ⅰ",
+                    "className": "수학세미나Ⅱ",
                     "id": "D"
                 },
                 {
-                    "className": "중국어",
-                    "id": "N"
+                    "className": "물리학세미나Ⅱ",
+                    "id": "L"
                 },
                 {
-                    "className": "고급물리학",
-                    "id": "YT"
+                    "className": "예술사",
+                    "id": "N2"
                 },
                 {
-                    "className": "선형대수학",
-                    "id": "Z"
-                },
-                {
-                    "className": "심화물상과과학",
+                    "className": "생명정보의 융합적 활용",
                     "id": "X"
                 },
                 {
-                    "className": "융합수학Ⅱ",
-                    "id": "L"
+                    "className": "정보과학융합프로젝트Ⅱ",
+                    "id": "C"
+                },
+                {
+                    "className": "사회문화",
+                    "id": "M"
                 }
             ]
         },
@@ -1795,32 +1515,32 @@
             "id": "30211",
             "data": [
                 {
-                    "className": "수학세미나Ⅰ",
-                    "id": "D"
+                    "className": "수학세미나Ⅱ",
+                    "id": "B"
                 },
                 {
-                    "className": "음악과테크놀로지",
-                    "id": "A2"
+                    "className": "미분방정식",
+                    "id": "A"
                 },
                 {
-                    "className": "생물학세미나Ⅰ",
-                    "id": "N"
-                },
-                {
-                    "className": "일본어",
+                    "className": "생명정보의 융합적 활용",
                     "id": "L"
                 },
                 {
-                    "className": "선형대수학",
+                    "className": "정보과학융합프로젝트Ⅱ",
+                    "id": "C"
+                },
+                {
+                    "className": "사회문화",
+                    "id": "M"
+                },
+                {
+                    "className": "시사영어",
                     "id": "X"
                 },
                 {
-                    "className": "융합수학Ⅱ",
-                    "id": "Z"
-                },
-                {
-                    "className": "정보과학프로젝트",
-                    "id": "Y"
+                    "className": "생물학세미나Ⅱ",
+                    "id": "D"
                 }
             ]
         },
@@ -1829,32 +1549,36 @@
             "id": "30212",
             "data": [
                 {
-                    "className": "수학세미나Ⅰ",
-                    "id": "A"
+                    "className": "수학세미나Ⅱ",
+                    "id": "B"
                 },
                 {
-                    "className": "음악과테크놀로지",
-                    "id": "B2"
+                    "className": "물리학세미나Ⅱ",
+                    "id": "CF"
                 },
                 {
-                    "className": "물리학세미나Ⅰ",
-                    "id": "L"
+                    "className": "예술사",
+                    "id": "M2"
                 },
                 {
-                    "className": "일본어",
-                    "id": "N"
-                },
-                {
-                    "className": "고급물리학",
-                    "id": "YT"
-                },
-                {
-                    "className": "선형대수학",
+                    "className": "생명정보의 융합적 활용",
                     "id": "Z"
                 },
                 {
-                    "className": "미술과테크놀로지",
-                    "id": "D2"
+                    "className": "정보과학융합프로젝트Ⅱ",
+                    "id": "A"
+                },
+                {
+                    "className": "미래와 융합",
+                    "id": "N2"
+                },
+                {
+                    "className": "사회문화",
+                    "id": "D"
+                },
+                {
+                    "className": "시사영어",
+                    "id": "X"
                 }
             ]
         },
@@ -1863,36 +1587,28 @@
             "id": "30213",
             "data": [
                 {
-                    "className": "수학세미나Ⅰ",
+                    "className": "수학세미나Ⅱ",
+                    "id": "B"
+                },
+                {
+                    "className": "미분방정식",
                     "id": "A"
                 },
                 {
-                    "className": "창의적 글쓰기",
+                    "className": "화학세미나Ⅱ",
+                    "id": "L"
+                },
+                {
+                    "className": "생명정보의 융합적 활용",
+                    "id": "X"
+                },
+                {
+                    "className": "정보과학융합프로젝트Ⅱ",
                     "id": "C"
                 },
                 {
-                    "className": "화학세미나Ⅰ",
+                    "className": "사회문화",
                     "id": "D"
-                },
-                {
-                    "className": "음악과테크놀로지",
-                    "id": "B2"
-                },
-                {
-                    "className": "중국어",
-                    "id": "M"
-                },
-                {
-                    "className": "심화바이오화학",
-                    "id": "XT"
-                },
-                {
-                    "className": "유기화학의이해",
-                    "id": "Z"
-                },
-                {
-                    "className": "융합수학Ⅱ",
-                    "id": "L"
                 }
             ]
         },
@@ -1901,36 +1617,28 @@
             "id": "30214",
             "data": [
                 {
-                    "className": "수학세미나Ⅰ",
-                    "id": "A"
+                    "className": "수학세미나Ⅱ",
+                    "id": "D"
                 },
                 {
-                    "className": "화학세미나Ⅰ",
+                    "className": "화학세미나Ⅱ",
                     "id": "C"
                 },
                 {
-                    "className": "음악과테크놀로지",
-                    "id": "B2"
-                },
-                {
-                    "className": "중국어",
+                    "className": "생명정보의 융합적 활용",
                     "id": "L"
                 },
                 {
-                    "className": "심화물상과과학",
-                    "id": "N"
+                    "className": "정보과학융합프로젝트Ⅱ",
+                    "id": "B"
                 },
                 {
-                    "className": "심화바이오화학",
-                    "id": "M"
+                    "className": "첨단화학",
+                    "id": "Y"
                 },
                 {
-                    "className": "유기화학의이해",
-                    "id": "Z"
-                },
-                {
-                    "className": "고급영어독해",
-                    "id": "XB"
+                    "className": "시사영어",
+                    "id": "X"
                 }
             ]
         },
@@ -1939,36 +1647,28 @@
             "id": "30215",
             "data": [
                 {
-                    "className": "수학세미나Ⅰ",
-                    "id": "B"
-                },
-                {
-                    "className": "창의적 글쓰기",
-                    "id": "C"
-                },
-                {
-                    "className": "음악과테크놀로지",
-                    "id": "A2"
-                },
-                {
-                    "className": "물리학세미나Ⅰ",
+                    "className": "수학세미나Ⅱ",
                     "id": "D"
                 },
                 {
-                    "className": "중국어",
+                    "className": "미분방정식",
+                    "id": "A"
+                },
+                {
+                    "className": "물리학세미나Ⅱ",
+                    "id": "L"
+                },
+                {
+                    "className": "생명정보의 융합적 활용",
+                    "id": "X"
+                },
+                {
+                    "className": "정보과학융합프로젝트Ⅱ",
+                    "id": "C"
+                },
+                {
+                    "className": "사회문화",
                     "id": "M"
-                },
-                {
-                    "className": "선형대수학",
-                    "id": "Y"
-                },
-                {
-                    "className": "심화물상과과학",
-                    "id": "N"
-                },
-                {
-                    "className": "융합수학Ⅱ",
-                    "id": "Z"
                 }
             ]
         },
@@ -1977,36 +1677,32 @@
             "id": "30216",
             "data": [
                 {
-                    "className": "수학세미나Ⅰ",
-                    "id": "C"
-                },
-                {
-                    "className": "창의적 글쓰기",
-                    "id": "B"
-                },
-                {
-                    "className": "세포생물학",
+                    "className": "수학세미나Ⅱ",
                     "id": "A"
                 },
                 {
-                    "className": "생물학세미나Ⅰ",
-                    "id": "N"
+                    "className": "예술사",
+                    "id": "Y2"
                 },
                 {
-                    "className": "일본어",
-                    "id": "L"
-                },
-                {
-                    "className": "미술과테크놀로지",
-                    "id": "D2"
-                },
-                {
-                    "className": "심화바이오화학",
-                    "id": "XT"
-                },
-                {
-                    "className": "융합수학Ⅱ",
+                    "className": "생명정보의 융합적 활용",
                     "id": "Z"
+                },
+                {
+                    "className": "미래와 융합",
+                    "id": "N2"
+                },
+                {
+                    "className": "분자생물학",
+                    "id": "B"
+                },
+                {
+                    "className": "독서",
+                    "id": "C"
+                },
+                {
+                    "className": "생물학세미나Ⅱ",
+                    "id": "D"
                 }
             ]
         },
@@ -2015,40 +1711,24 @@
             "id": "30301",
             "data": [
                 {
-                    "className": "수학세미나Ⅰ",
-                    "id": "D"
-                },
-                {
-                    "className": "창의적 글쓰기",
+                    "className": "수학세미나Ⅱ",
                     "id": "B"
                 },
                 {
-                    "className": "화학세미나Ⅰ",
-                    "id": "C"
-                },
-                {
-                    "className": "객체지향프로그래밍",
-                    "id": "A"
-                },
-                {
-                    "className": "음악과테크놀로지",
-                    "id": "Z2"
-                },
-                {
-                    "className": "중국어",
-                    "id": "M"
-                },
-                {
-                    "className": "선형대수학",
-                    "id": "X"
-                },
-                {
-                    "className": "융합수학Ⅱ",
+                    "className": "화학세미나Ⅱ",
                     "id": "L"
                 },
                 {
-                    "className": "정보과학프로젝트",
-                    "id": "Y"
+                    "className": "생명정보의 융합적 활용",
+                    "id": "X"
+                },
+                {
+                    "className": "정보과학융합프로젝트Ⅱ",
+                    "id": "A"
+                },
+                {
+                    "className": "독서",
+                    "id": "C"
                 }
             ]
         },
@@ -2057,36 +1737,32 @@
             "id": "30302",
             "data": [
                 {
-                    "className": "수학세미나Ⅰ",
-                    "id": "A"
-                },
-                {
-                    "className": "창의적 글쓰기",
+                    "className": "수학세미나Ⅱ",
                     "id": "B"
                 },
                 {
-                    "className": "화학세미나Ⅰ",
-                    "id": "D"
+                    "className": "화학세미나Ⅱ",
+                    "id": "C"
                 },
                 {
-                    "className": "음악과테크놀로지",
-                    "id": "C2"
+                    "className": "예술사",
+                    "id": "N2"
                 },
                 {
-                    "className": "중국어",
-                    "id": "M"
-                },
-                {
-                    "className": "미술과테크놀로지",
-                    "id": "Y2"
-                },
-                {
-                    "className": "심화바이오화학",
-                    "id": "XT"
-                },
-                {
-                    "className": "유기화학의이해",
+                    "className": "생명정보의 융합적 활용",
                     "id": "Z"
+                },
+                {
+                    "className": "정보과학융합프로젝트Ⅱ",
+                    "id": "A"
+                },
+                {
+                    "className": "첨단화학",
+                    "id": "Y"
+                },
+                {
+                    "className": "사회문화",
+                    "id": "D"
                 }
             ]
         },
@@ -2095,36 +1771,32 @@
             "id": "30303",
             "data": [
                 {
-                    "className": "수학세미나Ⅰ",
+                    "className": "수학세미나Ⅱ",
                     "id": "B"
                 },
                 {
-                    "className": "창의적 글쓰기",
+                    "className": "화학세미나Ⅱ",
+                    "id": "L"
+                },
+                {
+                    "className": "예술사",
+                    "id": "M2"
+                },
+                {
+                    "className": "생명정보의 융합적 활용",
+                    "id": "Z"
+                },
+                {
+                    "className": "정보과학융합프로젝트Ⅱ",
                     "id": "C"
                 },
                 {
-                    "className": "화학세미나Ⅰ",
+                    "className": "첨단화학",
+                    "id": "Y"
+                },
+                {
+                    "className": "사회문화",
                     "id": "D"
-                },
-                {
-                    "className": "음악과테크놀로지",
-                    "id": "A2"
-                },
-                {
-                    "className": "중국어",
-                    "id": "M"
-                },
-                {
-                    "className": "미술과테크놀로지",
-                    "id": "Y2"
-                },
-                {
-                    "className": "심화바이오화학",
-                    "id": "XT"
-                },
-                {
-                    "className": "유기화학의이해",
-                    "id": "Z"
                 }
             ]
         },
@@ -2133,36 +1805,28 @@
             "id": "30304",
             "data": [
                 {
-                    "className": "수학세미나Ⅰ",
+                    "className": "수학세미나Ⅱ",
+                    "id": "D"
+                },
+                {
+                    "className": "미분방정식",
                     "id": "A"
                 },
                 {
-                    "className": "창의적 글쓰기",
-                    "id": "B"
-                },
-                {
-                    "className": "물리학세미나Ⅰ",
+                    "className": "물리학세미나Ⅱ",
                     "id": "L"
                 },
                 {
-                    "className": "중국어",
-                    "id": "N"
-                },
-                {
-                    "className": "선형대수학",
-                    "id": "X"
-                },
-                {
-                    "className": "미술과테크놀로지",
-                    "id": "D2"
-                },
-                {
-                    "className": "융합수학Ⅱ",
+                    "className": "생명정보의 융합적 활용",
                     "id": "Z"
                 },
                 {
-                    "className": "정보과학프로젝트",
-                    "id": "Y"
+                    "className": "정보과학융합프로젝트Ⅱ",
+                    "id": "C"
+                },
+                {
+                    "className": "사회문화",
+                    "id": "X"
                 }
             ]
         },
@@ -2171,35 +1835,31 @@
             "id": "30305",
             "data": [
                 {
-                    "className": "수학세미나Ⅰ",
-                    "id": "B"
+                    "className": "수학세미나Ⅱ",
+                    "id": "D"
                 },
                 {
-                    "className": "창의적 글쓰기",
+                    "className": "미분방정식",
                     "id": "A"
                 },
                 {
-                    "className": "음악과테크놀로지",
-                    "id": "C2"
+                    "className": "물리학세미나Ⅱ",
+                    "id": "L"
                 },
                 {
-                    "className": "물리학세미나Ⅰ",
-                    "id": "M"
+                    "className": "예술사",
+                    "id": "M2"
                 },
                 {
-                    "className": "중국어",
-                    "id": "N"
+                    "className": "정보과학융합프로젝트Ⅱ",
+                    "id": "C"
                 },
                 {
-                    "className": "선형대수학",
-                    "id": "Z"
+                    "className": "미래와 융합",
+                    "id": "N2"
                 },
                 {
-                    "className": "미술과테크놀로지",
-                    "id": "D2"
-                },
-                {
-                    "className": "심화물상과과학",
+                    "className": "사회문화",
                     "id": "X"
                 }
             ]
@@ -2209,36 +1869,28 @@
             "id": "30306",
             "data": [
                 {
-                    "className": "수학세미나Ⅰ",
+                    "className": "수학세미나Ⅱ",
                     "id": "A"
                 },
                 {
-                    "className": "창의적 글쓰기",
-                    "id": "B"
-                },
-                {
-                    "className": "물리학세미나Ⅰ",
-                    "id": "D"
-                },
-                {
-                    "className": "중국어",
-                    "id": "N"
-                },
-                {
-                    "className": "고급물리학",
-                    "id": "YT"
-                },
-                {
-                    "className": "선형대수학",
-                    "id": "Z"
-                },
-                {
-                    "className": "융합수학Ⅱ",
+                    "className": "물리학세미나Ⅱ",
                     "id": "L"
                 },
                 {
-                    "className": "정보과학프로젝트",
-                    "id": "X"
+                    "className": "예술사",
+                    "id": "Y2"
+                },
+                {
+                    "className": "생명정보의 융합적 활용",
+                    "id": "Z"
+                },
+                {
+                    "className": "정보과학융합프로젝트Ⅱ",
+                    "id": "D"
+                },
+                {
+                    "className": "독서",
+                    "id": "C"
                 }
             ]
         },
@@ -2247,40 +1899,24 @@
             "id": "30307",
             "data": [
                 {
-                    "className": "수학세미나Ⅰ",
-                    "id": "D"
-                },
-                {
-                    "className": "창의적 글쓰기",
+                    "className": "수학세미나Ⅱ",
                     "id": "C"
                 },
                 {
-                    "className": "객체지향프로그래밍",
-                    "id": "A"
+                    "className": "물리학세미나Ⅱ",
+                    "id": "L"
                 },
                 {
-                    "className": "음악과테크놀로지",
-                    "id": "B2"
-                },
-                {
-                    "className": "물리학세미나Ⅰ",
-                    "id": "M"
-                },
-                {
-                    "className": "일본어",
-                    "id": "N"
-                },
-                {
-                    "className": "선형대수학",
-                    "id": "Y"
-                },
-                {
-                    "className": "융합수학Ⅱ",
+                    "className": "생명정보의 융합적 활용",
                     "id": "Z"
                 },
                 {
-                    "className": "정보과학프로젝트",
-                    "id": "X"
+                    "className": "정보과학융합프로젝트Ⅱ",
+                    "id": "A"
+                },
+                {
+                    "className": "사회문화",
+                    "id": "D"
                 }
             ]
         },
@@ -2289,40 +1925,32 @@
             "id": "30308",
             "data": [
                 {
-                    "className": "수학세미나Ⅰ",
-                    "id": "D"
-                },
-                {
-                    "className": "창의적 글쓰기",
-                    "id": "B"
-                },
-                {
-                    "className": "세포생물학",
+                    "className": "수학세미나Ⅱ",
                     "id": "A"
                 },
                 {
-                    "className": "음악과테크놀로지",
-                    "id": "C2"
-                },
-                {
-                    "className": "생물학세미나Ⅰ",
-                    "id": "N"
-                },
-                {
-                    "className": "일본어",
-                    "id": "L"
-                },
-                {
-                    "className": "선형대수학",
-                    "id": "Z"
-                },
-                {
-                    "className": "미술과테크놀로지",
+                    "className": "예술사",
                     "id": "Y2"
                 },
                 {
-                    "className": "심화바이오화학",
-                    "id": "M"
+                    "className": "생명정보의 융합적 활용",
+                    "id": "X"
+                },
+                {
+                    "className": "미래와 융합",
+                    "id": "N2"
+                },
+                {
+                    "className": "분자생물학",
+                    "id": "B"
+                },
+                {
+                    "className": "독서",
+                    "id": "C"
+                },
+                {
+                    "className": "생물학세미나Ⅱ",
+                    "id": "D"
                 }
             ]
         },
@@ -2331,36 +1959,28 @@
             "id": "30309",
             "data": [
                 {
-                    "className": "수학세미나Ⅰ",
-                    "id": "D"
+                    "className": "수학세미나Ⅱ",
+                    "id": "B"
                 },
                 {
-                    "className": "창의적 글쓰기",
+                    "className": "미분방정식",
                     "id": "A"
                 },
                 {
-                    "className": "음악과테크놀로지",
-                    "id": "C2"
+                    "className": "물리학세미나Ⅱ",
+                    "id": "CF"
                 },
                 {
-                    "className": "물리학세미나Ⅰ",
-                    "id": "L"
-                },
-                {
-                    "className": "중국어",
-                    "id": "N"
-                },
-                {
-                    "className": "선형대수학",
-                    "id": "Y"
-                },
-                {
-                    "className": "융합수학Ⅱ",
-                    "id": "Z"
-                },
-                {
-                    "className": "정보과학프로젝트",
+                    "className": "생명정보의 융합적 활용",
                     "id": "X"
+                },
+                {
+                    "className": "정보과학융합프로젝트Ⅱ",
+                    "id": "D"
+                },
+                {
+                    "className": "사회문화",
+                    "id": "M"
                 }
             ]
         },
@@ -2369,36 +1989,28 @@
             "id": "30310",
             "data": [
                 {
-                    "className": "수학세미나Ⅰ",
+                    "className": "수학세미나Ⅱ",
                     "id": "A"
                 },
                 {
-                    "className": "창의적 글쓰기",
+                    "className": "미분방정식",
                     "id": "B"
                 },
                 {
-                    "className": "음악과테크놀로지",
-                    "id": "C2"
+                    "className": "물리학세미나Ⅱ",
+                    "id": "CF"
                 },
                 {
-                    "className": "물리학세미나Ⅰ",
-                    "id": "D"
-                },
-                {
-                    "className": "중국어",
-                    "id": "L"
-                },
-                {
-                    "className": "선형대수학",
-                    "id": "Y"
-                },
-                {
-                    "className": "심화물상과과학",
+                    "className": "생명정보의 융합적 활용",
                     "id": "X"
                 },
                 {
-                    "className": "융합수학Ⅱ",
-                    "id": "Z"
+                    "className": "정보과학융합프로젝트Ⅱ",
+                    "id": "D"
+                },
+                {
+                    "className": "사회문화",
+                    "id": "M"
                 }
             ]
         },
@@ -2407,35 +2019,31 @@
             "id": "30311",
             "data": [
                 {
-                    "className": "수학세미나Ⅰ",
+                    "className": "수학세미나Ⅱ",
                     "id": "A"
                 },
                 {
-                    "className": "창의적 글쓰기",
-                    "id": "C"
+                    "className": "미분방정식",
+                    "id": "B"
                 },
                 {
-                    "className": "음악과테크놀로지",
-                    "id": "B2"
+                    "className": "물리학세미나Ⅱ",
+                    "id": "CF"
                 },
                 {
-                    "className": "물리학세미나Ⅰ",
-                    "id": "L"
+                    "className": "예술사",
+                    "id": "M2"
                 },
                 {
-                    "className": "중국어",
-                    "id": "N"
+                    "className": "정보과학융합프로젝트Ⅱ",
+                    "id": "D"
                 },
                 {
-                    "className": "선형대수학",
-                    "id": "Z"
+                    "className": "미래와 융합",
+                    "id": "N2"
                 },
                 {
-                    "className": "미술과테크놀로지",
-                    "id": "D2"
-                },
-                {
-                    "className": "심화물상과과학",
+                    "className": "사회문화",
                     "id": "X"
                 }
             ]
@@ -2445,36 +2053,28 @@
             "id": "30312",
             "data": [
                 {
-                    "className": "수학세미나Ⅰ",
+                    "className": "수학세미나Ⅱ",
                     "id": "C"
                 },
                 {
-                    "className": "창의적 글쓰기",
-                    "id": "A"
+                    "className": "미분방정식",
+                    "id": "B"
                 },
                 {
-                    "className": "화학세미나Ⅰ",
-                    "id": "D"
-                },
-                {
-                    "className": "음악과테크놀로지",
-                    "id": "Z2"
-                },
-                {
-                    "className": "일본어",
-                    "id": "N"
-                },
-                {
-                    "className": "선형대수학",
-                    "id": "X"
-                },
-                {
-                    "className": "융합수학Ⅱ",
+                    "className": "화학세미나Ⅱ",
                     "id": "L"
                 },
                 {
-                    "className": "정보과학프로젝트",
-                    "id": "Y"
+                    "className": "생명정보의 융합적 활용",
+                    "id": "X"
+                },
+                {
+                    "className": "정보과학융합프로젝트Ⅱ",
+                    "id": "D"
+                },
+                {
+                    "className": "Critical Reading",
+                    "id": "A"
                 }
             ]
         },
@@ -2483,36 +2083,28 @@
             "id": "30313",
             "data": [
                 {
-                    "className": "수학세미나Ⅰ",
-                    "id": "C"
-                },
-                {
-                    "className": "객체지향프로그래밍",
+                    "className": "수학세미나Ⅱ",
                     "id": "A"
                 },
                 {
-                    "className": "음악과테크놀로지",
-                    "id": "Z2"
+                    "className": "물리학세미나Ⅱ",
+                    "id": "Z"
                 },
                 {
-                    "className": "물리학세미나Ⅰ",
-                    "id": "D"
-                },
-                {
-                    "className": "중국어",
-                    "id": "M"
-                },
-                {
-                    "className": "선형대수학",
-                    "id": "X"
-                },
-                {
-                    "className": "융합수학Ⅱ",
+                    "className": "생명정보의 융합적 활용",
                     "id": "L"
                 },
                 {
-                    "className": "정보과학프로젝트",
-                    "id": "Y"
+                    "className": "정보과학융합프로젝트Ⅱ",
+                    "id": "B"
+                },
+                {
+                    "className": "독서",
+                    "id": "C"
+                },
+                {
+                    "className": "사회문화",
+                    "id": "D"
                 }
             ]
         },
@@ -2521,36 +2113,28 @@
             "id": "30314",
             "data": [
                 {
-                    "className": "수학세미나Ⅰ",
-                    "id": "D"
-                },
-                {
-                    "className": "창의적 글쓰기",
+                    "className": "수학세미나Ⅱ",
                     "id": "A"
                 },
                 {
-                    "className": "음악과테크놀로지",
-                    "id": "C2"
+                    "className": "미분방정식",
+                    "id": "B"
                 },
                 {
-                    "className": "물리학세미나Ⅰ",
-                    "id": "M"
+                    "className": "물리학세미나Ⅱ",
+                    "id": "CF"
                 },
                 {
-                    "className": "중국어",
+                    "className": "생명정보의 융합적 활용",
                     "id": "L"
                 },
                 {
-                    "className": "선형대수학",
-                    "id": "Y"
+                    "className": "정보과학융합프로젝트Ⅱ",
+                    "id": "D"
                 },
                 {
-                    "className": "심화물상과과학",
-                    "id": "N"
-                },
-                {
-                    "className": "융합수학Ⅱ",
-                    "id": "Z"
+                    "className": "사회문화",
+                    "id": "X"
                 }
             ]
         },
@@ -2559,36 +2143,32 @@
             "id": "30315",
             "data": [
                 {
-                    "className": "수학세미나Ⅰ",
-                    "id": "D"
-                },
-                {
-                    "className": "창의적 글쓰기",
+                    "className": "수학세미나Ⅱ",
                     "id": "A"
                 },
                 {
-                    "className": "음악과테크놀로지",
-                    "id": "B2"
+                    "className": "미분방정식",
+                    "id": "B"
                 },
                 {
-                    "className": "물리학세미나Ⅰ",
-                    "id": "M"
+                    "className": "물리학세미나Ⅱ",
+                    "id": "CF"
                 },
                 {
-                    "className": "중국어",
-                    "id": "L"
+                    "className": "예술사",
+                    "id": "M2"
                 },
                 {
-                    "className": "선형대수학",
-                    "id": "Y"
+                    "className": "생명정보의 융합적 활용",
+                    "id": "Z"
                 },
                 {
-                    "className": "미술과테크놀로지",
-                    "id": "Z2"
+                    "className": "미래와 융합",
+                    "id": "Y2"
                 },
                 {
-                    "className": "심화물상과과학",
-                    "id": "X"
+                    "className": "사회문화",
+                    "id": "D"
                 }
             ]
         },
@@ -2597,40 +2177,28 @@
             "id": "30316",
             "data": [
                 {
-                    "className": "수학세미나Ⅰ",
-                    "id": "A"
+                    "className": "수학세미나Ⅱ",
+                    "id": "B"
                 },
                 {
-                    "className": "화학세미나Ⅰ",
+                    "className": "화학세미나Ⅱ",
                     "id": "C"
                 },
                 {
-                    "className": "음악과테크놀로지",
-                    "id": "B2"
+                    "className": "예술사",
+                    "id": "M2"
                 },
                 {
-                    "className": "선형대수학",
-                    "id": "Y"
+                    "className": "미래와 융합",
+                    "id": "Y2"
                 },
                 {
-                    "className": "미술과테크놀로지",
-                    "id": "D2"
+                    "className": "Critical Reading",
+                    "id": "A"
                 },
                 {
-                    "className": "심화바이오화학",
-                    "id": "M"
-                },
-                {
-                    "className": "유기화학의이해",
-                    "id": "Z"
-                },
-                {
-                    "className": "융합수학Ⅱ",
-                    "id": "L"
-                },
-                {
-                    "className": "고급영어독해",
-                    "id": "XB"
+                    "className": "시사영어",
+                    "id": "X"
                 }
             ]
         },
@@ -2639,40 +2207,28 @@
             "id": "30401",
             "data": [
                 {
-                    "className": "수학세미나Ⅰ",
+                    "className": "수학세미나Ⅱ",
                     "id": "B"
                 },
                 {
-                    "className": "창의적 글쓰기",
+                    "className": "화학세미나Ⅱ",
                     "id": "C"
                 },
                 {
-                    "className": "화학세미나Ⅰ",
-                    "id": "D"
+                    "className": "예술사",
+                    "id": "M2"
                 },
                 {
-                    "className": "음악과테크놀로지",
-                    "id": "A2"
+                    "className": "정보과학융합프로젝트Ⅱ",
+                    "id": "A"
                 },
                 {
-                    "className": "중국어",
-                    "id": "L"
-                },
-                {
-                    "className": "선형대수학",
-                    "id": "X"
-                },
-                {
-                    "className": "미술과테크놀로지",
+                    "className": "미래와 융합",
                     "id": "Y2"
                 },
                 {
-                    "className": "심화바이오화학",
-                    "id": "M"
-                },
-                {
-                    "className": "유기화학의이해",
-                    "id": "Z"
+                    "className": "사회문화",
+                    "id": "D"
                 }
             ]
         },
@@ -2681,36 +2237,32 @@
             "id": "30402",
             "data": [
                 {
-                    "className": "수학세미나Ⅰ",
-                    "id": "D"
+                    "className": "수학세미나Ⅱ",
+                    "id": "C"
                 },
                 {
-                    "className": "창의적 글쓰기",
+                    "className": "예술사",
+                    "id": "Y2"
+                },
+                {
+                    "className": "생명정보의 융합적 활용",
+                    "id": "Z"
+                },
+                {
+                    "className": "정보과학융합프로젝트Ⅱ",
                     "id": "A"
                 },
                 {
-                    "className": "음악과테크놀로지",
-                    "id": "C2"
+                    "className": "분자생물학",
+                    "id": "B"
                 },
                 {
-                    "className": "생물학세미나Ⅰ",
-                    "id": "N"
-                },
-                {
-                    "className": "중국어",
-                    "id": "L"
-                },
-                {
-                    "className": "선형대수학",
+                    "className": "사회문화",
                     "id": "X"
                 },
                 {
-                    "className": "미술과테크놀로지",
-                    "id": "Z2"
-                },
-                {
-                    "className": "정보과학프로젝트",
-                    "id": "Y"
+                    "className": "생물학세미나Ⅱ",
+                    "id": "D"
                 }
             ]
         },
@@ -2719,36 +2271,32 @@
             "id": "30403",
             "data": [
                 {
-                    "className": "수학세미나Ⅰ",
-                    "id": "C"
-                },
-                {
-                    "className": "창의적 글쓰기",
-                    "id": "B"
-                },
-                {
-                    "className": "세포생물학",
+                    "className": "수학세미나Ⅱ",
                     "id": "A"
                 },
                 {
-                    "className": "음악과테크놀로지",
-                    "id": "Z2"
-                },
-                {
-                    "className": "생물학세미나Ⅰ",
-                    "id": "N"
-                },
-                {
-                    "className": "중국어",
-                    "id": "L"
-                },
-                {
-                    "className": "미술과테크놀로지",
+                    "className": "예술사",
                     "id": "Y2"
                 },
                 {
-                    "className": "심화바이오화학",
-                    "id": "XT"
+                    "className": "생명정보의 융합적 활용",
+                    "id": "X"
+                },
+                {
+                    "className": "미래와 융합",
+                    "id": "N2"
+                },
+                {
+                    "className": "분자생물학",
+                    "id": "B"
+                },
+                {
+                    "className": "독서",
+                    "id": "C"
+                },
+                {
+                    "className": "생물학세미나Ⅱ",
+                    "id": "D"
                 }
             ]
         },
@@ -2757,36 +2305,28 @@
             "id": "30404",
             "data": [
                 {
-                    "className": "수학세미나Ⅰ",
-                    "id": "D"
-                },
-                {
-                    "className": "창의적 글쓰기",
+                    "className": "수학세미나Ⅱ",
                     "id": "A"
                 },
                 {
-                    "className": "물리학세미나Ⅰ",
-                    "id": "M"
+                    "className": "미분방정식",
+                    "id": "B"
                 },
                 {
-                    "className": "중국어",
-                    "id": "L"
-                },
-                {
-                    "className": "선형대수학",
-                    "id": "Y"
-                },
-                {
-                    "className": "심화물상과과학",
-                    "id": "N"
-                },
-                {
-                    "className": "융합수학Ⅱ",
+                    "className": "물리학세미나Ⅱ",
                     "id": "Z"
                 },
                 {
-                    "className": "정보과학프로젝트",
-                    "id": "X"
+                    "className": "생명정보의 융합적 활용",
+                    "id": "L"
+                },
+                {
+                    "className": "정보과학융합프로젝트Ⅱ",
+                    "id": "D"
+                },
+                {
+                    "className": "독서",
+                    "id": "C"
                 }
             ]
         },
@@ -2795,36 +2335,32 @@
             "id": "30405",
             "data": [
                 {
-                    "className": "수학세미나Ⅰ",
-                    "id": "A"
-                },
-                {
-                    "className": "창의적 글쓰기",
+                    "className": "수학세미나Ⅱ",
                     "id": "C"
                 },
                 {
-                    "className": "음악과테크놀로지",
-                    "id": "B2"
+                    "className": "미분방정식",
+                    "id": "B"
                 },
                 {
-                    "className": "물리학세미나Ⅰ",
+                    "className": "물리학세미나Ⅱ",
+                    "id": "Z"
+                },
+                {
+                    "className": "예술사",
+                    "id": "M2"
+                },
+                {
+                    "className": "정보과학융합프로젝트Ⅱ",
                     "id": "D"
                 },
                 {
-                    "className": "중국어",
-                    "id": "M"
+                    "className": "미래와 융합",
+                    "id": "Y2"
                 },
                 {
-                    "className": "선형대수학",
-                    "id": "X"
-                },
-                {
-                    "className": "미술과테크놀로지",
-                    "id": "Z2"
-                },
-                {
-                    "className": "융합수학Ⅱ",
-                    "id": "L"
+                    "className": "Critical Reading",
+                    "id": "A"
                 }
             ]
         },
@@ -2833,40 +2369,24 @@
             "id": "30406",
             "data": [
                 {
-                    "className": "수학세미나Ⅰ",
+                    "className": "수학세미나Ⅱ",
                     "id": "C"
                 },
                 {
-                    "className": "객체지향프로그래밍",
-                    "id": "A"
-                },
-                {
-                    "className": "음악과테크놀로지",
-                    "id": "B2"
-                },
-                {
-                    "className": "물리학세미나Ⅰ",
-                    "id": "M"
-                },
-                {
-                    "className": "중국어",
-                    "id": "N"
-                },
-                {
-                    "className": "선형대수학",
-                    "id": "Z"
-                },
-                {
-                    "className": "융합수학Ⅱ",
+                    "className": "물리학세미나Ⅱ",
                     "id": "L"
                 },
                 {
-                    "className": "고급영어독해",
-                    "id": "XB"
+                    "className": "생명정보의 융합적 활용",
+                    "id": "X"
                 },
                 {
-                    "className": "정보과학프로젝트",
-                    "id": "Y"
+                    "className": "정보과학융합프로젝트Ⅱ",
+                    "id": "D"
+                },
+                {
+                    "className": "사회문화",
+                    "id": "M"
                 }
             ]
         },
@@ -2875,36 +2395,32 @@
             "id": "30407",
             "data": [
                 {
-                    "className": "수학세미나Ⅰ",
-                    "id": "D"
+                    "className": "수학세미나Ⅱ",
+                    "id": "A"
                 },
                 {
-                    "className": "창의적 글쓰기",
-                    "id": "C"
-                },
-                {
-                    "className": "음악과테크놀로지",
-                    "id": "A2"
-                },
-                {
-                    "className": "물리학세미나Ⅰ",
+                    "className": "물리학세미나Ⅱ",
                     "id": "L"
                 },
                 {
-                    "className": "일본어",
-                    "id": "N"
+                    "className": "예술사",
+                    "id": "N2"
                 },
                 {
-                    "className": "고급물리학",
-                    "id": "YT"
+                    "className": "생명정보의 융합적 활용",
+                    "id": "Z"
                 },
                 {
-                    "className": "선형대수학",
+                    "className": "정보과학융합프로젝트Ⅱ",
+                    "id": "D"
+                },
+                {
+                    "className": "미래와 융합",
+                    "id": "Y2"
+                },
+                {
+                    "className": "사회문화",
                     "id": "X"
-                },
-                {
-                    "className": "미술과테크놀로지",
-                    "id": "Z2"
                 }
             ]
         },
@@ -2913,36 +2429,32 @@
             "id": "30408",
             "data": [
                 {
-                    "className": "수학세미나Ⅰ",
+                    "className": "수학세미나Ⅱ",
                     "id": "B"
                 },
                 {
-                    "className": "음악과테크놀로지",
-                    "id": "A2"
-                },
-                {
-                    "className": "물리학세미나Ⅰ",
-                    "id": "D"
-                },
-                {
-                    "className": "중국어",
+                    "className": "물리학세미나Ⅱ",
                     "id": "L"
                 },
                 {
-                    "className": "고급물리학",
-                    "id": "YT"
+                    "className": "예술사",
+                    "id": "N2"
                 },
                 {
-                    "className": "선형대수학",
+                    "className": "정보과학융합프로젝트Ⅱ",
+                    "id": "D"
+                },
+                {
+                    "className": "미래와 융합",
+                    "id": "Y2"
+                },
+                {
+                    "className": "사회문화",
+                    "id": "M"
+                },
+                {
+                    "className": "시사영어",
                     "id": "X"
-                },
-                {
-                    "className": "미술과테크놀로지",
-                    "id": "Z2"
-                },
-                {
-                    "className": "심화물상과과학",
-                    "id": "N"
                 }
             ]
         },
@@ -2951,36 +2463,28 @@
             "id": "30409",
             "data": [
                 {
-                    "className": "수학세미나Ⅰ",
+                    "className": "수학세미나Ⅱ",
                     "id": "A"
                 },
                 {
-                    "className": "화학세미나Ⅰ",
+                    "className": "화학세미나Ⅱ",
                     "id": "C"
                 },
                 {
-                    "className": "중국어",
-                    "id": "L"
-                },
-                {
-                    "className": "미술과테크놀로지",
-                    "id": "D2"
-                },
-                {
-                    "className": "심화물상과과학",
-                    "id": "N"
-                },
-                {
-                    "className": "심화바이오화학",
-                    "id": "M"
-                },
-                {
-                    "className": "유기화학의이해",
+                    "className": "생명정보의 융합적 활용",
                     "id": "Z"
                 },
                 {
-                    "className": "고급영어독해",
-                    "id": "XB"
+                    "className": "정보과학융합프로젝트Ⅱ",
+                    "id": "B"
+                },
+                {
+                    "className": "첨단화학",
+                    "id": "Y"
+                },
+                {
+                    "className": "시사영어",
+                    "id": "X"
                 }
             ]
         },
@@ -2989,31 +2493,31 @@
             "id": "30410",
             "data": [
                 {
-                    "className": "수학세미나Ⅰ",
+                    "className": "수학세미나Ⅱ",
                     "id": "C"
                 },
                 {
-                    "className": "객체지향프로그래밍",
-                    "id": "A"
+                    "className": "미분방정식",
+                    "id": "B"
                 },
                 {
-                    "className": "중국어",
-                    "id": "N"
+                    "className": "예술사",
+                    "id": "N2"
                 },
                 {
-                    "className": "고급물리학",
-                    "id": "YT"
-                },
-                {
-                    "className": "선형대수학",
-                    "id": "Z"
-                },
-                {
-                    "className": "융합수학Ⅱ",
+                    "className": "생명정보의 융합적 활용",
                     "id": "L"
                 },
                 {
-                    "className": "정보과학프로젝트",
+                    "className": "정보과학융합프로젝트Ⅱ",
+                    "id": "A"
+                },
+                {
+                    "className": "사회문화",
+                    "id": "M"
+                },
+                {
+                    "className": "시사영어",
                     "id": "X"
                 }
             ]
@@ -3023,36 +2527,32 @@
             "id": "30411",
             "data": [
                 {
-                    "className": "수학세미나Ⅰ",
-                    "id": "B"
-                },
-                {
-                    "className": "창의적 글쓰기",
-                    "id": "C"
-                },
-                {
-                    "className": "세포생물학",
+                    "className": "수학세미나Ⅱ",
                     "id": "A"
                 },
                 {
-                    "className": "음악과테크놀로지",
-                    "id": "Z2"
+                    "className": "예술사",
+                    "id": "N2"
                 },
                 {
-                    "className": "생물학세미나Ⅰ",
-                    "id": "N"
+                    "className": "생명정보의 융합적 활용",
+                    "id": "L"
                 },
                 {
-                    "className": "중국어",
-                    "id": "M"
+                    "className": "미래와 융합",
+                    "id": "Y2"
                 },
                 {
-                    "className": "미술과테크놀로지",
-                    "id": "D2"
+                    "className": "분자생물학",
+                    "id": "B"
                 },
                 {
-                    "className": "심화바이오화학",
-                    "id": "XT"
+                    "className": "사회문화",
+                    "id": "X"
+                },
+                {
+                    "className": "생물학세미나Ⅱ",
+                    "id": "D"
                 }
             ]
         },
@@ -3061,36 +2561,32 @@
             "id": "30412",
             "data": [
                 {
-                    "className": "수학세미나Ⅰ",
+                    "className": "수학세미나Ⅱ",
                     "id": "C"
                 },
                 {
-                    "className": "창의적 글쓰기",
-                    "id": "B"
+                    "className": "예술사",
+                    "id": "N2"
                 },
                 {
-                    "className": "세포생물학",
-                    "id": "A"
-                },
-                {
-                    "className": "음악과테크놀로지",
-                    "id": "Z2"
-                },
-                {
-                    "className": "생물학세미나Ⅰ",
-                    "id": "N"
-                },
-                {
-                    "className": "일본어",
+                    "className": "생명정보의 융합적 활용",
                     "id": "L"
                 },
                 {
-                    "className": "미술과테크놀로지",
-                    "id": "D2"
+                    "className": "정보과학융합프로젝트Ⅱ",
+                    "id": "A"
                 },
                 {
-                    "className": "심화바이오화학",
-                    "id": "XT"
+                    "className": "분자생물학",
+                    "id": "B"
+                },
+                {
+                    "className": "시사영어",
+                    "id": "X"
+                },
+                {
+                    "className": "생물학세미나Ⅱ",
+                    "id": "D"
                 }
             ]
         },
@@ -3099,40 +2595,24 @@
             "id": "30413",
             "data": [
                 {
-                    "className": "수학세미나Ⅰ",
+                    "className": "수학세미나Ⅱ",
                     "id": "D"
                 },
                 {
-                    "className": "객체지향프로그래밍",
-                    "id": "A"
-                },
-                {
-                    "className": "음악과테크놀로지",
-                    "id": "C2"
-                },
-                {
-                    "className": "물리학세미나Ⅰ",
-                    "id": "M"
-                },
-                {
-                    "className": "일본어",
-                    "id": "L"
-                },
-                {
-                    "className": "선형대수학",
-                    "id": "Y"
-                },
-                {
-                    "className": "심화물상과과학",
-                    "id": "N"
-                },
-                {
-                    "className": "융합수학Ⅱ",
+                    "className": "물리학세미나Ⅱ",
                     "id": "Z"
                 },
                 {
-                    "className": "정보과학프로젝트",
-                    "id": "X"
+                    "className": "정보과학융합프로젝트Ⅱ",
+                    "id": "B"
+                },
+                {
+                    "className": "독서",
+                    "id": "C"
+                },
+                {
+                    "className": "사회문화",
+                    "id": "M"
                 }
             ]
         },
@@ -3141,36 +2621,28 @@
             "id": "30414",
             "data": [
                 {
-                    "className": "수학세미나Ⅰ",
-                    "id": "C"
-                },
-                {
-                    "className": "객체지향프로그래밍",
-                    "id": "A"
-                },
-                {
-                    "className": "물리학세미나Ⅰ",
+                    "className": "수학세미나Ⅱ",
                     "id": "D"
                 },
                 {
-                    "className": "중국어",
-                    "id": "N"
+                    "className": "물리학세미나Ⅱ",
+                    "id": "CF"
                 },
                 {
-                    "className": "선형대수학",
-                    "id": "Z"
+                    "className": "예술사",
+                    "id": "N2"
                 },
                 {
-                    "className": "융합수학Ⅱ",
+                    "className": "생명정보의 융합적 활용",
                     "id": "L"
                 },
                 {
-                    "className": "고급영어독해",
-                    "id": "XB"
+                    "className": "정보과학융합프로젝트Ⅱ",
+                    "id": "B"
                 },
                 {
-                    "className": "정보과학프로젝트",
-                    "id": "Y"
+                    "className": "시사영어",
+                    "id": "X"
                 }
             ]
         },
@@ -3179,36 +2651,32 @@
             "id": "30415",
             "data": [
                 {
-                    "className": "수학세미나Ⅰ",
+                    "className": "수학세미나Ⅱ",
                     "id": "C"
                 },
                 {
-                    "className": "창의적 글쓰기",
-                    "id": "B"
+                    "className": "예술사",
+                    "id": "N2"
                 },
                 {
-                    "className": "세포생물학",
-                    "id": "A"
+                    "className": "생명정보의 융합적 활용",
+                    "id": "Z"
                 },
                 {
-                    "className": "음악과테크놀로지",
-                    "id": "Z2"
-                },
-                {
-                    "className": "생물학세미나Ⅰ",
-                    "id": "N"
-                },
-                {
-                    "className": "일본어",
-                    "id": "L"
-                },
-                {
-                    "className": "미술과테크놀로지",
+                    "className": "미래와 융합",
                     "id": "Y2"
                 },
                 {
-                    "className": "심화바이오화학",
-                    "id": "XT"
+                    "className": "분자생물학",
+                    "id": "B"
+                },
+                {
+                    "className": "사회문화",
+                    "id": "X"
+                },
+                {
+                    "className": "생물학세미나Ⅱ",
+                    "id": "D"
                 }
             ]
         },
@@ -3217,36 +2685,32 @@
             "id": "30416",
             "data": [
                 {
-                    "className": "수학세미나Ⅰ",
-                    "id": "A"
+                    "className": "수학세미나Ⅱ",
+                    "id": "D"
                 },
                 {
-                    "className": "창의적 글쓰기",
-                    "id": "C"
+                    "className": "미분방정식",
+                    "id": "B"
                 },
                 {
-                    "className": "음악과테크놀로지",
-                    "id": "B2"
-                },
-                {
-                    "className": "물리학세미나Ⅰ",
-                    "id": "M"
-                },
-                {
-                    "className": "중국어",
+                    "className": "물리학세미나Ⅱ",
                     "id": "L"
                 },
                 {
-                    "className": "선형대수학",
-                    "id": "X"
+                    "className": "예술사",
+                    "id": "M2"
                 },
                 {
-                    "className": "미술과테크놀로지",
-                    "id": "D2"
+                    "className": "정보과학융합프로젝트Ⅱ",
+                    "id": "C"
                 },
                 {
-                    "className": "융합수학Ⅱ",
-                    "id": "Z"
+                    "className": "미래와 융합",
+                    "id": "Y2"
+                },
+                {
+                    "className": "Critical Reading",
+                    "id": "A"
                 }
             ]
         },
@@ -3255,36 +2719,32 @@
             "id": "30501",
             "data": [
                 {
-                    "className": "수학세미나Ⅰ",
-                    "id": "A"
-                },
-                {
-                    "className": "창의적 글쓰기",
-                    "id": "C"
-                },
-                {
-                    "className": "음악과테크놀로지",
-                    "id": "B2"
-                },
-                {
-                    "className": "물리학세미나Ⅰ",
+                    "className": "수학세미나Ⅱ",
                     "id": "D"
                 },
                 {
-                    "className": "중국어",
-                    "id": "L"
+                    "className": "물리학세미나Ⅱ",
+                    "id": "CF"
                 },
                 {
-                    "className": "고급물리학",
-                    "id": "YT"
+                    "className": "예술사",
+                    "id": "N2"
                 },
                 {
-                    "className": "선형대수학",
-                    "id": "X"
+                    "className": "생명정보의 융합적 활용",
+                    "id": "Z"
                 },
                 {
-                    "className": "미술과테크놀로지",
-                    "id": "Z2"
+                    "className": "정보과학융합프로젝트Ⅱ",
+                    "id": "B"
+                },
+                {
+                    "className": "미래와 융합",
+                    "id": "Y2"
+                },
+                {
+                    "className": "사회문화",
+                    "id": "M"
                 }
             ]
         },
@@ -3293,32 +2753,32 @@
             "id": "30502",
             "data": [
                 {
-                    "className": "수학세미나Ⅰ",
-                    "id": "B"
+                    "className": "수학세미나Ⅱ",
+                    "id": "C"
                 },
                 {
-                    "className": "객체지향프로그래밍",
-                    "id": "A"
+                    "className": "예술사",
+                    "id": "Y2"
                 },
                 {
-                    "className": "생물학세미나Ⅰ",
-                    "id": "N"
-                },
-                {
-                    "className": "중국어",
-                    "id": "L"
-                },
-                {
-                    "className": "선형대수학",
-                    "id": "X"
-                },
-                {
-                    "className": "융합수학Ⅱ",
+                    "className": "생명정보의 융합적 활용",
                     "id": "Z"
                 },
                 {
-                    "className": "정보과학프로젝트",
-                    "id": "Y"
+                    "className": "정보과학융합프로젝트Ⅱ",
+                    "id": "A"
+                },
+                {
+                    "className": "사회문화",
+                    "id": "M"
+                },
+                {
+                    "className": "시사영어",
+                    "id": "X"
+                },
+                {
+                    "className": "생물학세미나Ⅱ",
+                    "id": "D"
                 }
             ]
         },
@@ -3327,36 +2787,28 @@
             "id": "30503",
             "data": [
                 {
-                    "className": "수학세미나Ⅰ",
-                    "id": "B"
-                },
-                {
-                    "className": "창의적 글쓰기",
+                    "className": "수학세미나Ⅱ",
                     "id": "C"
                 },
                 {
-                    "className": "물리학세미나Ⅰ",
-                    "id": "M"
+                    "className": "미분방정식",
+                    "id": "B"
                 },
                 {
-                    "className": "중국어",
+                    "className": "물리학세미나Ⅱ",
+                    "id": "Z"
+                },
+                {
+                    "className": "생명정보의 융합적 활용",
                     "id": "L"
                 },
                 {
-                    "className": "선형대수학",
-                    "id": "Y"
+                    "className": "정보과학융합프로젝트Ⅱ",
+                    "id": "A"
                 },
                 {
-                    "className": "미술과테크놀로지",
-                    "id": "D2"
-                },
-                {
-                    "className": "심화물상과과학",
-                    "id": "N"
-                },
-                {
-                    "className": "융합수학Ⅱ",
-                    "id": "Z"
+                    "className": "사회문화",
+                    "id": "D"
                 }
             ]
         },
@@ -3365,36 +2817,32 @@
             "id": "30504",
             "data": [
                 {
-                    "className": "수학세미나Ⅰ",
-                    "id": "C"
+                    "className": "수학세미나Ⅱ",
+                    "id": "A"
                 },
                 {
-                    "className": "창의적 글쓰기",
-                    "id": "B"
-                },
-                {
-                    "className": "음악과테크놀로지",
-                    "id": "A2"
-                },
-                {
-                    "className": "물리학세미나Ⅰ",
-                    "id": "L"
-                },
-                {
-                    "className": "중국어",
-                    "id": "N"
-                },
-                {
-                    "className": "고급물리학",
-                    "id": "YT"
-                },
-                {
-                    "className": "선형대수학",
+                    "className": "물리학세미나Ⅱ",
                     "id": "Z"
                 },
                 {
-                    "className": "미술과테크놀로지",
-                    "id": "D2"
+                    "className": "예술사",
+                    "id": "Y2"
+                },
+                {
+                    "className": "생명정보의 융합적 활용",
+                    "id": "L"
+                },
+                {
+                    "className": "정보과학융합프로젝트Ⅱ",
+                    "id": "B"
+                },
+                {
+                    "className": "미래와 융합",
+                    "id": "N2"
+                },
+                {
+                    "className": "독서",
+                    "id": "C"
                 }
             ]
         },
@@ -3403,36 +2851,28 @@
             "id": "30505",
             "data": [
                 {
-                    "className": "수학세미나Ⅰ",
+                    "className": "수학세미나Ⅱ",
                     "id": "B"
                 },
                 {
-                    "className": "창의적 글쓰기",
+                    "className": "화학세미나Ⅱ",
+                    "id": "C"
+                },
+                {
+                    "className": "생명정보의 융합적 활용",
+                    "id": "X"
+                },
+                {
+                    "className": "정보과학융합프로젝트Ⅱ",
                     "id": "A"
                 },
                 {
-                    "className": "화학세미나Ⅰ",
+                    "className": "첨단화학",
+                    "id": "Y"
+                },
+                {
+                    "className": "사회문화",
                     "id": "D"
-                },
-                {
-                    "className": "음악과테크놀로지",
-                    "id": "C2"
-                },
-                {
-                    "className": "중국어",
-                    "id": "M"
-                },
-                {
-                    "className": "선형대수학",
-                    "id": "Z"
-                },
-                {
-                    "className": "심화물상과과학",
-                    "id": "N"
-                },
-                {
-                    "className": "융합수학Ⅱ",
-                    "id": "L"
                 }
             ]
         },
@@ -3441,28 +2881,40 @@
             "id": "30506",
             "data": [
                 {
-                    "className": "수학세미나Ⅰ",
+                    "className": "수학세미나Ⅱ",
                     "id": "D"
                 },
                 {
-                    "className": "창의적 글쓰기",
-                    "id": "A"
-                },
-                {
-                    "className": "화학세미나Ⅰ",
+                    "className": "화학세미나Ⅱ",
                     "id": "C"
                 },
                 {
-                    "className": "음악과테크놀로지",
-                    "id": "B2"
+                    "className": "예술사",
+                    "id": "M2"
                 },
                 {
-                    "className": "심화바이오화학",
-                    "id": "M"
-                },
-                {
-                    "className": "유기화학의이해",
+                    "className": "생명정보의 융합적 활용",
                     "id": "Z"
+                },
+                {
+                    "className": "정보과학융합프로젝트Ⅱ",
+                    "id": "B"
+                },
+                {
+                    "className": "미래와 융합",
+                    "id": "N2"
+                },
+                {
+                    "className": "첨단화학",
+                    "id": "Y"
+                },
+                {
+                    "className": "Critical Reading",
+                    "id": "A"
+                },
+                {
+                    "className": "사회문화",
+                    "id": "X"
                 }
             ]
         },
@@ -3471,36 +2923,28 @@
             "id": "30507",
             "data": [
                 {
-                    "className": "수학세미나Ⅰ",
+                    "className": "수학세미나Ⅱ",
                     "id": "D"
                 },
                 {
-                    "className": "창의적 글쓰기",
+                    "className": "미분방정식",
                     "id": "A"
                 },
                 {
-                    "className": "음악과테크놀로지",
-                    "id": "B2"
-                },
-                {
-                    "className": "물리학세미나Ⅰ",
-                    "id": "M"
-                },
-                {
-                    "className": "일본어",
-                    "id": "N"
-                },
-                {
-                    "className": "선형대수학",
+                    "className": "물리학세미나Ⅱ",
                     "id": "Z"
                 },
                 {
-                    "className": "심화물상과과학",
+                    "className": "생명정보의 융합적 활용",
                     "id": "X"
                 },
                 {
-                    "className": "융합수학Ⅱ",
-                    "id": "L"
+                    "className": "정보과학융합프로젝트Ⅱ",
+                    "id": "C"
+                },
+                {
+                    "className": "사회문화",
+                    "id": "M"
                 }
             ]
         },
@@ -3509,32 +2953,36 @@
             "id": "30508",
             "data": [
                 {
-                    "className": "수학세미나Ⅰ",
-                    "id": "C"
+                    "className": "수학세미나Ⅱ",
+                    "id": "D"
                 },
                 {
-                    "className": "창의적 글쓰기",
+                    "className": "미분방정식",
                     "id": "B"
                 },
                 {
-                    "className": "물리학세미나Ⅰ",
-                    "id": "L"
-                },
-                {
-                    "className": "일본어",
-                    "id": "N"
-                },
-                {
-                    "className": "선형대수학",
-                    "id": "X"
-                },
-                {
-                    "className": "융합수학Ⅱ",
+                    "className": "물리학세미나Ⅱ",
                     "id": "Z"
                 },
                 {
-                    "className": "정보과학프로젝트",
+                    "className": "예술사",
+                    "id": "M2"
+                },
+                {
+                    "className": "생명정보의 융합적 활용",
+                    "id": "X"
+                },
+                {
+                    "className": "정보과학융합프로젝트Ⅱ",
+                    "id": "A"
+                },
+                {
+                    "className": "첨단화학",
                     "id": "Y"
+                },
+                {
+                    "className": "독서",
+                    "id": "C"
                 }
             ]
         },
@@ -3543,36 +2991,28 @@
             "id": "30509",
             "data": [
                 {
-                    "className": "수학세미나Ⅰ",
+                    "className": "수학세미나Ⅱ",
                     "id": "C"
                 },
                 {
-                    "className": "창의적 글쓰기",
+                    "className": "미분방정식",
                     "id": "B"
                 },
                 {
-                    "className": "음악과테크놀로지",
-                    "id": "Z2"
+                    "className": "물리학세미나Ⅱ",
+                    "id": "Z"
                 },
                 {
-                    "className": "물리학세미나Ⅰ",
+                    "className": "생명정보의 융합적 활용",
                     "id": "L"
                 },
                 {
-                    "className": "중국어",
-                    "id": "M"
+                    "className": "정보과학융합프로젝트Ⅱ",
+                    "id": "A"
                 },
                 {
-                    "className": "선형대수학",
-                    "id": "Y"
-                },
-                {
-                    "className": "심화물상과과학",
-                    "id": "N"
-                },
-                {
-                    "className": "심화바이오화학",
-                    "id": "XT"
+                    "className": "사회문화",
+                    "id": "D"
                 }
             ]
         },
@@ -3581,35 +3021,31 @@
             "id": "30510",
             "data": [
                 {
-                    "className": "수학세미나Ⅰ",
-                    "id": "D"
-                },
-                {
-                    "className": "창의적 글쓰기",
+                    "className": "수학세미나Ⅱ",
                     "id": "C"
                 },
                 {
-                    "className": "음악과테크놀로지",
-                    "id": "A2"
+                    "className": "미분방정식",
+                    "id": "B"
                 },
                 {
-                    "className": "물리학세미나Ⅰ",
-                    "id": "M"
-                },
-                {
-                    "className": "일본어",
-                    "id": "N"
-                },
-                {
-                    "className": "선형대수학",
+                    "className": "물리학세미나Ⅱ",
                     "id": "Z"
                 },
                 {
-                    "className": "미술과테크놀로지",
+                    "className": "예술사",
+                    "id": "N2"
+                },
+                {
+                    "className": "정보과학융합프로젝트Ⅱ",
+                    "id": "A"
+                },
+                {
+                    "className": "미래와 융합",
                     "id": "Y2"
                 },
                 {
-                    "className": "심화물상과과학",
+                    "className": "시사영어",
                     "id": "X"
                 }
             ]
@@ -3619,36 +3055,32 @@
             "id": "30511",
             "data": [
                 {
-                    "className": "수학세미나Ⅰ",
+                    "className": "수학세미나Ⅱ",
                     "id": "C"
                 },
                 {
-                    "className": "창의적 글쓰기",
+                    "className": "미분방정식",
                     "id": "B"
                 },
                 {
-                    "className": "음악과테크놀로지",
-                    "id": "A2"
+                    "className": "물리학세미나Ⅱ",
+                    "id": "Z"
                 },
                 {
-                    "className": "물리학세미나Ⅰ",
-                    "id": "D"
+                    "className": "예술사",
+                    "id": "Y2"
                 },
                 {
-                    "className": "중국어",
-                    "id": "N"
-                },
-                {
-                    "className": "고급물리학",
-                    "id": "YT"
-                },
-                {
-                    "className": "미술과테크놀로지",
-                    "id": "Z2"
-                },
-                {
-                    "className": "심화물상과과학",
+                    "className": "생명정보의 융합적 활용",
                     "id": "X"
+                },
+                {
+                    "className": "정보과학융합프로젝트Ⅱ",
+                    "id": "A"
+                },
+                {
+                    "className": "사회문화",
+                    "id": "D"
                 }
             ]
         },
@@ -3657,39 +3089,27 @@
             "id": "30512",
             "data": [
                 {
-                    "className": "수학세미나Ⅰ",
-                    "id": "B"
+                    "className": "수학세미나Ⅱ",
+                    "id": "D"
                 },
                 {
-                    "className": "창의적 글쓰기",
+                    "className": "미분방정식",
                     "id": "A"
                 },
                 {
-                    "className": "음악과테크놀로지",
-                    "id": "C2"
+                    "className": "물리학세미나Ⅱ",
+                    "id": "CF"
                 },
                 {
-                    "className": "물리학세미나Ⅰ",
-                    "id": "L"
-                },
-                {
-                    "className": "중국어",
-                    "id": "M"
-                },
-                {
-                    "className": "고급물리학",
-                    "id": "YT"
-                },
-                {
-                    "className": "선형대수학",
+                    "className": "생명정보의 융합적 활용",
                     "id": "Z"
                 },
                 {
-                    "className": "심화물상과과학",
-                    "id": "N"
+                    "className": "정보과학융합프로젝트Ⅱ",
+                    "id": "B"
                 },
                 {
-                    "className": "정보과학프로젝트",
+                    "className": "사회문화",
                     "id": "X"
                 }
             ]
@@ -3699,44 +3119,24 @@
             "id": "30513",
             "data": [
                 {
-                    "className": "수학세미나Ⅰ",
-                    "id": "C"
+                    "className": "수학세미나Ⅱ",
+                    "id": "B"
                 },
                 {
-                    "className": "창의적 글쓰기",
-                    "id": "A"
-                },
-                {
-                    "className": "화학세미나Ⅰ",
-                    "id": "D"
-                },
-                {
-                    "className": "음악과테크놀로지",
-                    "id": "B2"
-                },
-                {
-                    "className": "일본어",
+                    "className": "화학세미나Ⅱ",
                     "id": "L"
                 },
                 {
-                    "className": "선형대수학",
+                    "className": "예술사",
+                    "id": "M2"
+                },
+                {
+                    "className": "미래와 융합",
+                    "id": "N2"
+                },
+                {
+                    "className": "첨단화학",
                     "id": "Y"
-                },
-                {
-                    "className": "미술과테크놀로지",
-                    "id": "Z2"
-                },
-                {
-                    "className": "심화물상과과학",
-                    "id": "N"
-                },
-                {
-                    "className": "심화바이오화학",
-                    "id": "M"
-                },
-                {
-                    "className": "고급영어독해",
-                    "id": "XB"
                 }
             ]
         },
@@ -3745,36 +3145,32 @@
             "id": "30514",
             "data": [
                 {
-                    "className": "수학세미나Ⅰ",
+                    "className": "수학세미나Ⅱ",
                     "id": "C"
                 },
                 {
-                    "className": "음악과테크놀로지",
-                    "id": "A2"
-                },
-                {
-                    "className": "물리학세미나Ⅰ",
+                    "className": "물리학세미나Ⅱ",
                     "id": "L"
                 },
                 {
-                    "className": "중국어",
-                    "id": "N"
+                    "className": "예술사",
+                    "id": "N2"
                 },
                 {
-                    "className": "고급물리학",
-                    "id": "YT"
+                    "className": "생명정보의 융합적 활용",
+                    "id": "X"
                 },
                 {
-                    "className": "선형대수학",
-                    "id": "Z"
+                    "className": "정보과학융합프로젝트Ⅱ",
+                    "id": "B"
                 },
                 {
-                    "className": "미술과테크놀로지",
-                    "id": "D2"
+                    "className": "미래와 융합",
+                    "id": "Y2"
                 },
                 {
-                    "className": "고급영어독해",
-                    "id": "XB"
+                    "className": "사회문화",
+                    "id": "M"
                 }
             ]
         },
@@ -3783,40 +3179,28 @@
             "id": "30515",
             "data": [
                 {
-                    "className": "수학세미나Ⅰ",
+                    "className": "수학세미나Ⅱ",
                     "id": "D"
                 },
                 {
-                    "className": "창의적 글쓰기",
-                    "id": "A"
+                    "className": "화학세미나Ⅱ",
+                    "id": "L"
                 },
                 {
-                    "className": "화학세미나Ⅰ",
-                    "id": "C"
+                    "className": "예술사",
+                    "id": "M2"
                 },
                 {
-                    "className": "음악과테크놀로지",
-                    "id": "B2"
+                    "className": "생명정보의 융합적 활용",
+                    "id": "Z"
                 },
                 {
-                    "className": "일본어",
-                    "id": "N"
-                },
-                {
-                    "className": "선형대수학",
-                    "id": "X"
-                },
-                {
-                    "className": "미술과테크놀로지",
+                    "className": "미래와 융합",
                     "id": "Y2"
                 },
                 {
-                    "className": "심화바이오화학",
-                    "id": "M"
-                },
-                {
-                    "className": "유기화학의이해",
-                    "id": "Z"
+                    "className": "독서",
+                    "id": "C"
                 }
             ]
         },
@@ -3825,31 +3209,31 @@
             "id": "30516",
             "data": [
                 {
-                    "className": "수학세미나Ⅰ",
-                    "id": "D"
+                    "className": "수학세미나Ⅱ",
+                    "id": "B"
                 },
                 {
-                    "className": "음악과테크놀로지",
-                    "id": "A2"
+                    "className": "미분방정식",
+                    "id": "A"
                 },
                 {
-                    "className": "물리학세미나Ⅰ",
-                    "id": "M"
-                },
-                {
-                    "className": "일본어",
+                    "className": "물리학세미나Ⅱ",
                     "id": "L"
                 },
                 {
-                    "className": "선형대수학",
-                    "id": "Y"
-                },
-                {
-                    "className": "융합수학Ⅱ",
+                    "className": "생명정보의 융합적 활용",
                     "id": "Z"
                 },
                 {
-                    "className": "정보과학프로젝트",
+                    "className": "정보과학융합프로젝트Ⅱ",
+                    "id": "D"
+                },
+                {
+                    "className": "독서",
+                    "id": "C"
+                },
+                {
+                    "className": "사회문화",
                     "id": "X"
                 }
             ]
