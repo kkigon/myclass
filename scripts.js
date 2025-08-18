@@ -76,9 +76,6 @@ function draw() {
     if (stuid[0] === '3') {
         classList[2][5] = 'SA'
         classList[2][6] = 'SA'
-        classList[2][7] = 'SA'
-        classList[4][5] = '동아리'
-        classList[4][6] = '동아리'
         if (document.getElementById('color').checked) colorSet['창체'] = colors[0]
         ++cn
         if (document.getElementById('color').checked) colorSet['동아리'] = colors[1]
